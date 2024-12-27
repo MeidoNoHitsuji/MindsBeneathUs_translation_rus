@@ -1,0 +1,1966 @@
+[
+    {
+        "key": "Медицинский ящик\nМодель: #RD-3 Radiation-Blocking\nИспользование: Хранение радиоактивных препаратов\nОписание: Не для обычных палат",
+        "value": "Медицинский ящик\nМодель: #RD-3 Radiation-Blocking\nИспользование: Хранение радиоактивных препаратов\nОписание: Не для обычных палат"
+    },
+    {
+        "key": "Rypenol\nEffect: Eases coughing, congestion and nasal infections.\nSerial No.: E5YD",
+        "value": "Рипенол\nЭффект: Облегчает кашель, заложенность носа и носовые инфекции.\nСерийный номер: E5YD"
+    },
+    {
+        "key": "Spring Couplets\nDescription: Hung upside-down on purpose. \nThe wordplay conveys the arrival of spring\".",
+        "value": "Весенние двустишия\nОписание: Специально повесили вверх ногами.\nИгра слов передает приход весны\"."
+    },
+    {
+        "key": "PL8\nMaker: Sona Entertainment\nDescription: One of Sona's popular game consoles. \nNot the latest generation, but still plenty of fun. \nIt captures the player's body movements to provide a controller-free experience.",
+        "value": "PL8\nСоздатель: Sona Entertainment\nОписание: Одна из популярных игровых приставок компании Sona.\nНе самое последнее поколение, но все равно очень весело.\nЗахватывает движения тела игрока, чтобы обеспечить игру без контроллера."
+    },
+    {
+        "key": "MycoCept\nEffect: Reduces implant rejection and soothes pain. \nPowerful but only effective for short periods of time.\nSerial No.: Y5YC",
+        "value": "МикоЦепт\nЭффект: Уменьшает отторжение имплантата и успокаивает боль.\nМощный, но действует только в течение короткого времени.\nСерийный номер: Y5YC"
+    },
+    {
+        "key": "Moma\nEffect: Relaxes muscles and lowers blood pressure. \nNot recommended for implant users.\nSerial No.: Y1WD",
+        "value": "Мома\nЭффект: Расслабляет мышцы и снижает кровяное давление.\nНе рекомендуется для пользователей имплантатов.\nСерийный номер: Y1WD"
+    },
+    {
+        "key": "Dumdum Chocolate Rolls\nMaker: HF Foods\nDescription: A crispy, rolled chocolate-covered crepe. \nOften used by kids as a prop to imitate smoking.\nCriticized by concerned parents for their resemblance to cigars.",
+        "value": "Шоколадные роллы \"Дамдум\nПроизводитель: HF Foods\nОписание: Хрустящий, свернутый блинчик с шоколадной глазурью.\nЧасто используется детьми в качестве реквизита для имитации курения.\nКритикуется обеспокоенными родителями за сходство с сигарами."
+    },
+    {
+        "key": "Picture of Corn Lilies\nMaker: Unknown\nDescription: Purchased from a flea market, \njudging from the tag. \nThe words \"Never-ending love, Courage\", \nthe floriography of the flowers, appear on the canvas.",
+        "value": "Изображение кукурузных лилий\nСоздатель: Неизвестный\nОписание: Приобретена на блошином рынке,\nсудя по бирке.\nСлова \"Непреходящая любовь, мужество\",\nна холсте изображена флориография цветов."
+    },
+    {
+        "key": "Utility Meter\nMaker: Growell Energy Industries \nDescription: It shows the apartment's usage of electricity, gas, and tap water.",
+        "value": "Коммунальный счетчик\nПроизводитель: Growell Energy Industries\nОписание: Показывает расход электроэнергии, газа и водопроводной воды в квартире."
+    },
+    {
+        "key": "Cloud Nine Stereo\nMaker: Sona Entertainment\nDescription: A floating speaker that came with the Deluxe version of the PL8.",
+        "value": "Cloud Nine Stereo\nСоздатель: Sona Entertainment\nОписание: Плавающий динамик, который поставлялся с делюкс-версией PL8."
+    },
+    {
+        "key": "Krisp Potato Fries\n Description: Just an empty bag now.",
+        "value": "Картофель фри Krisp\n Описание: Теперь это просто пустой пакет."
+    },
+    {
+        "key": "Artisan Biscuit Tin\nMaker: Tailor Biscuits\nDescription: A round metal biscuit tin. \nIt's been opened so it's hard to tell if it contains biscuits or sewing equipment.",
+        "value": "Жестянка для печенья Artisan\nПроизводитель: Tailor Biscuits\nОписание: Круглая металлическая жестянка для печенья.\nОна была открыта, поэтому трудно сказать, что в ней находится - печенье или швейные принадлежности."
+    },
+    {
+        "key": "83rd Tiny Hacker Competition – 3rd place trophy\nGiven by: MQ Elementary School\nDescription: A gaudy, cookie-cutter trophy used in many school competitions.",
+        "value": "83-е соревнование \"Крошка-хакер\" - трофей за 3-е место\nПредоставлено: Начальная школа MQ\nОписание: Безвкусный, стандартный трофей, используемый во многих школьных соревнованиях."
+    },
+    {
+        "key": "Door Curtain\nMaker: KIEA\nDescription: This straightforward curtain is made of dirt-resistant materials.",
+        "value": "Дверная занавеска\nПроизводитель: KIEA\nОписание: Эта простая штора изготовлена из устойчивых к загрязнениям материалов."
+    },
+    {
+        "key": "Orange-flavored Potato Chips\nMaker: HF Foods\nDescription: This light, fruity potato chip is a favorite among office ladies.",
+        "value": "Картофельные чипсы со вкусом апельсина\nПроизводитель: HF Foods\nОписание: Эти легкие картофельные чипсы с фруктовым вкусом - фаворит среди офисных леди."
+    },
+    {
+        "key": "MAC-3\nEffect: AKA \"Lucid Dream\". Creates confusion in patients using SR devices, \nrendering them unable to tell simulation from reality. \nUsed as an analgesia for pain-free surgery. \nSerial No.: Z9RC",
+        "value": "MAC-3\nЭффект: Он же \"Лучезарный сон\". Вызывает замешательство у пациентов, использующих устройства SR,\nв результате чего они не могут отличить симуляцию от реальности.\nИспользуется как анальгетик для безболезненной операции.\nСерийный номер: Z9RC"
+    },
+    {
+        "key": "Whiskey Butter Thins\nMaker: Anne-May Snacks\nDescription: Thin cookies infused with liquor. \nTaken off shelves three months after release due to its high alcohol content.",
+        "value": "Тонкости с маслом виски\nПроизводитель: Anne-May Snacks\nОписание: Тонкое печенье, настоянное на ликере.\nСнято с продажи через три месяца после выпуска из-за высокого содержания алкоголя."
+    },
+    {
+        "key": "Jewelry Box\nMaker: Prime Life\nDescription: A plain box for what seems to be\n—judging from the tag—a fancy wedding ring.",
+        "value": "Шкатулка для украшений\nПроизводитель: Prime Life\nОписание: Простая коробочка для того, что кажется.\n—судя по бирке—шикарного обручального кольца."
+    },
+    {
+        "key": "Room Controller\nMaker: United Electronics\nDescription: A manual controller for all the appliances in the house.",
+        "value": "Контроллер комнаты\nПроизводитель: United Electronics\nОписание: Ручной контроллер для всех приборов в доме."
+    },
+    {
+        "key": "Quantum Key Generator\nMaker: Mirage – Red Box Laboratories\nDescription: For internal experimental use within Mirage's laboratories. \nEnables quantum encryption for compatible systems. \nUsed by Mirage management to enforce and improve data security.",
+        "value": "Генератор квантовых ключей\nПроизводитель: Mirage - Red Box Laboratories\nОписание: Для внутреннего экспериментального использования в лабораториях Миража.\nОбеспечивает квантовое шифрование для совместимых систем.\nИспользуется руководством Mirage для обеспечения и повышения безопасности данных."
+    },
+    {
+        "key": "Scrawled Notes\nDescription: Lightly damaged & some words missing.\n------------------------------------------------------------------------\n<i>\"Memories will... confused... pretending to sleep...\"</i>\n<i>\"Don't forget... under the bed... keep note...\" </i>",
+        "value": "Нацарапанные заметки\nОписание: Слегка поврежден & некоторые слова отсутствуют.\n------------------------------------------------------------------------\n<i>\"Воспоминания будут... путаться... притворяясь сном...\"</i>\n<i>\"Не забудь... под кроватью... запиши...\" </i>"
+    },
+    {
+        "key": "Krisp Potato Fries\nMaker: HF Foods\nDescription: A popular snack featuring hollow potato straws covered in tomato-flavored spices. \nEnjoyed by both kids and adults.",
+        "value": "Картофельный картофель фри\nПроизводитель: HF Foods\nОписание: Популярная закуска, состоящая из полых картофельных соломинок, покрытых специями со вкусом томата.\nНравится и детям, и взрослым."
+    },
+    {
+        "key": "Reynold Zhao\nDescription: Researcher, Sleeping God lab, life support team.\nStatus: Comatose",
+        "value": "Рейнольд Чжао\nОписание: Исследователь, лаборатория Спящего Бога, команда жизнеобеспечения.\nСостояние: В коматозном состоянии"
+    },
+    {
+        "key": "Krisp Potato Fries\nMaker: HF Foods\nDescription: A popular snack featuring a hollow potato straws covered in a tomato-flavored spices. \nEnjoyed by both kids and adults.",
+        "value": "Картофельный картофель фри\nПроизводитель: HF Foods\nОписание: Популярная закуска, состоящая из полых картофельных соломинок, покрытых приправой со вкусом томата.\nНравится как детям, так и взрослым."
+    },
+    {
+        "key": "Hot Coffee\nMaker: Mac G's\nDescription: Cheap coffee from a classic fast food franchise. \nA longtime breakfast staple for Wanbei office workers.",
+        "value": "Горячий кофе\nПроизводитель: Mac G's\nОписание: Дешевый кофе от классической франшизы быстрого питания.\nДавний основной завтрак для офисных работников Ванбея."
+    },
+    {
+        "key": "Rolling Screen\nMaker: United Electronics\nModel: #A1 Generation\nUse: Power switch for the rolling screen\nDescription: An old-school lever switch.",
+        "value": "Передвижной экран\nПроизводитель: Объединенная электроника\nМодель: #A1 Generation\nПрименение: Выключатель питания для прокатного экрана\nОписание: Рычажный переключатель старой школы."
+    },
+    {
+        "key": "Stephen Zhan\nDescription: Researcher, Sleeping God lab, optimization team.\nStatus: Comatose",
+        "value": "Стивен Чжан\nОписание: Исследователь, лаборатория \"Спящий бог\", команда оптимизации.\nСостояние: В коматозном состоянии"
+    },
+    {
+        "key": "Syringe\nModel: **** (Restricted)\nSerial No.: #E2-5\nDescription: A tube filled with unknown red liquid",
+        "value": "Шприц\nМодель: **** (ограничено)\nСерийный номер: #E2-5\nОписание: Пробирка, наполненная неизвестной красной жидкостью"
+    },
+    {
+        "key": "Epto-Fismol\nMaker: Morning Glory\nDescription: A cheap but popular stomach medicine, \neven after the brand changed hands.",
+        "value": "Эпто-Фисмол\nСоздатель: Утренняя слава\nОписание: Дешевое, но популярное лекарство от желудка,\nДаже после того, как бренд сменил владельца."
+    },
+    {
+        "key": "Automatic Door\nMaker: **** (Restricted)\nModel: #U-404 Military-Grade Alloy\nDescription: Unbreakable. Only opens from the outside.\nStatus: Locked",
+        "value": "Автоматическая дверь\nСоздатель: **** (Ограничено)\nМодель: #U-404 Military-Grade Alloy\nОписание: Небьющийся. Открывается только снаружи.\nСостояние: Заперто"
+    },
+    {
+        "key": "Isopropyl Alcohol\nModel: Pump bottle\nDescription: Vision brand disinfecting alcohol.\nA common sight in hospitals in the North.",
+        "value": "Изопропиловый спирт\nМодель: Бутылка насоса\nОписание: Дезинфицирующий спирт марки Vision.\nЧасто встречается в больницах на Севере."
+    },
+    {
+        "key": "PC\nMaker: Datum Electronics\nDescription: Connected to Silencio intranet. Owner registered as \"Eva Yeh\".",
+        "value": "ПК\nПроизводитель: Datum Electronics\nОписание: Подключен к внутренней сети Silencio. Владелец зарегистрирован как \"Ева Йе\"."
+    },
+    {
+        "key": "Psycaprin\nEffect: Increases sensitivity of all five senses. \nSide effects include confusion.\nSerial No.: X7RO",
+        "value": "Псикаприн\nЭффект: Повышает чувствительность всех пяти органов чувств.\nПобочные эффекты: спутанность сознания.\nСерийный номер: X7RO"
+    },
+    {
+        "key": "Evan Lee\nDescription: Mercenary leader, Sleeping God lab security guard, ID 28604.\nStatus: Deceased",
+        "value": "Эван Ли\nОписание: Лидер наемников, охранник лаборатории Спящего Бога, ID 28604.\nСтатус: Погиб"
+    },
+    {
+        "key": "Dacsen Bottled Water\nMaker: Dacsen\nDescription: Filled 1/3 of the way with water.\n -----------------------------------------------------\n*Perfect for the bottle flipping",
+        "value": "Бутилированная вода Dacsen\nПроизводитель: Dacsen\nОписание: Наполнен водой на 1/3.\n -----------------------------------------------------\n*Идеально подходит для переворачивания бутылок"
+    },
+    {
+        "key": "Research Director ID Card\nDescription: This apparently belongs to Ray Fu, director of Sleeping God Research Center. A password is written on the back side, \"AU06\".",
+        "value": "Удостоверение директора по исследованиям\nОписание: По всей видимости, принадлежит Рэю Фу, директору исследовательского центра \"Спящий бог\". На обратной стороне написан пароль: \"AU06\"."
+    },
+    {
+        "key": "Syringe\nModel: **** (Restricted)\nSerial No.: #E0-4\nDescription: A tube filled with unknown blue liquid",
+        "value": "Шприц\nМодель: **** (ограничено)\nСерийный номер: #E0-4\nОписание: Пробирка, наполненная неизвестной голубой жидкостью"
+    },
+    {
+        "key": "Pigeon Post Delivery Box\nMaker: Pigeon Post\nDescription: A package sent from Wanzhong. \nIt's unopened with a layer of dust accumulated. \nThe sender is Samuel Cheng.",
+        "value": "Ящик для доставки голубиной почты\nПроизводитель: Pigeon Post\nОписание: Посылка, отправленная из Ваньчжуна.\nОна не вскрыта, на ней скопился слой пыли.\nОтправитель - Сэмюэль Ченг."
+    },
+    {
+        "key": "Cellar Pass\nDescription: Grants temporary access to the Cellar.\nNote: Owner registered as \"Cathy Hsieh, Screening\".",
+        "value": "Пропуск в Подвал\nОписание: Предоставляет временный доступ в Подвал.\nПримечание: Владелец зарегистрирован как \"Кэти Хсие, Сортировка\"."
+    },
+    {
+        "key": "Albert Tsai\nSex: Male (Age 20-30)\nStatus: Reviving (Nanobug Red #E2-5)\nDescription: Experimental subject registered by Dept. 12 \nInjuries: Severe neck trauma (non-lethal)",
+        "value": "Альберт Цай\nПол: Мужчина (возраст 20-30 лет)\nСтатус: Оживление (Nanobug Red #E2-5)\nОписание: Экспериментальный объект, зарегистрированный Департаментом 12\nТравмы: Тяжелая травма шеи (не смертельная)"
+    },
+    {
+        "key": "Sign\n Description: Restroom under maintenance. Estimated outage: 1 day.",
+        "value": "Вывеска\n Описание: Туалет находится на техническом обслуживании. Предполагаемый срок отключения: 1 день."
+    },
+    {
+        "key": "Wells Wang\nDescription: Mercenary, Sleeping God lab security guard, ID HJI4J4.\nStatus: Deceased",
+        "value": "Уэллс Ванг\nОписание: Наемник, охранник лаборатории Спящего Бога, ID HJI4J4.\nСтатус: Погиб"
+    },
+    {
+        "key": "Bittah Green Tea\nMaker: Bittah\nDescription: Non-sweetened tea infused with bitter melon extract. \"Makes everything \nelse feel sweeter.\"",
+        "value": "Зеленый чай Bittah\nПроизводитель: Bittah\nОписание: Неподслащенный чай, настоянный на экстракте горькой дыни. \"Заставляет все\nвсе остальное становится слаще\"."
+    },
+    {
+        "key": "Electronic Display\nMaker: United Electronics\nModel: #F7-X001\nUse: Projector (Remote-Controlled)\nDescription: Commonly seen in hospitals. \nCurrently showing a slideshow about the hospital's services.",
+        "value": "Электронный дисплей\nПроизводитель: United Electronics\nМодель: #F7-X001\nИспользование: Проектор (с дистанционным управлением)\nОписание: Часто встречается в больницах.\nВ настоящее время показывает слайд-шоу об услугах больницы."
+    },
+    {
+        "key": "Albert Tsai\nSex: Male (Age 20-30)\nStatus: Deceased\nDescription: Experimental subject registered by Dept. 12\nCause of Death: Severe neck trauma",
+        "value": "Альберт Цай\nПол: Мужчина (возраст 20-30 лет)\nСтатус: Погиб\nОписание: Экспериментальный объект, зарегистрированный отделом 12\nПричина смерти: Тяжелая травма шеи"
+    },
+    {
+        "key": "Electronic Display\nMaker: United Electronics\nModel: #A1 Generation\nUse: Power switch for the rolling screen\nDescription: An old-school lever switch.",
+        "value": "Электронный дисплей\nПроизводитель: United Electronics\nМодель: #A1 Generation\nИспользование: Выключатель питания для прокатного экрана\nОписание: Рычажный переключатель старой школы."
+    },
+    {
+        "key": "Scrawled Notes\nDescription: Lightly damaged & some words missing.\n----------------------------------------------------------------------------\n<i>\"They took Albert away again... I...\"</i>\n<i>\"Under the bandages... They...\"</i>\n<i>\"Blue... no... Red... won't die...\"</i>",
+        "value": "Нацарапанные заметки\nОписание: Слегка повреждена, некоторые слова отсутствуют.\n----------------------------------------------------------------------------\n<i>\"Они снова забрали Альберта..... Я...\"</i>\n<i>\"Под бинтами... Они...\"</i>\n<i>\"Синий... нет... Красный... не умрут...\"</i>"
+    },
+    {
+        "key": "Albert Tsai\nDescription: Male (20-30)\nStatus: Modifications complete – Organs replaced\nDescription: Registered test subject under Section 12\nNote: Injector installed. Injection by serial number enabled.",
+        "value": "Альберт Цай\nОписание: Мужчина (20-30)\nСтатус: Модификации завершены - Органы заменены\nОписание: Зарегистрированный испытуемый в соответствии с разделом 12\nПримечание: Установлен инжектор. Включена инъекция по серийному номеру."
+    },
+    {
+        "key": "Projected Photograph\nDescription: A photo of Jason and Frances post-workout. \nTheir clothes are dripping with sweat.\nTag: Working out! Competitive dieting begins today!",
+        "value": "Проектируемая фотография\nОписание: Фотография Джейсона и Фрэнсис после тренировки.\nС их одежды капает пот.\nТеги: Тренировка! Соревновательная диета начинается сегодня!"
+    },
+    {
+        "key": "Active Weather Calendar\nMaker: Datum Electronics\nDescription: A display that shows today's date along with the weather. \nYear 2049 is down to the last month. Boy, how time flies.",
+        "value": "Календарь активной погоды\nПроизводитель: Datum Electronics\nОписание: Дисплей, который показывает сегодняшнюю дату вместе с погодой.\nГод 2049 дошел до последнего месяца. Боже, как летит время."
+    },
+    {
+        "key": "Pineapple Cake\nMaker: Hollytown\nDescription: These used to be popular due to influencer marketing. \nIts marketing slogan has become a bit of a meme.",
+        "value": "Ананасовый торт\nПроизводитель: Hollytown\nОписание: Этот торт был популярен благодаря маркетингу влияния.\nЕго маркетинговый слоган стал своеобразным мемом."
+    },
+    {
+        "key": "Scrawled Notes\nDescription: Lightly damaged & some words missing.\n----------------------------------------------------------------------------\n<i>\"Time isn't moving. It's always night.\"</i>\n<i>\"Too much time has passed... not a hospital...\"</i>\n<i>\"Albert... left...\"</i>",
+        "value": "Нацарапанные заметки\nОписание: Слегка повреждена, некоторые слова отсутствуют.\n----------------------------------------------------------------------------\n<i>\"Время не движется. Всегда ночь.\"</i>\n<i>\"Слишком много времени прошло... не больница...\"</i>\n<i>\"Альберт... ушел...\"</i>"
+    },
+    {
+        "key": "Wooden Photo Frame\nDescription: An intimate photo of Jason and Frances.",
+        "value": "Деревянная фоторамка\nОписание: Интимная фотография Джейсона и Фрэнсис."
+    },
+    {
+        "key": "Projected Photograph\nDescription: A casual photo from Frances's travels.\nTag: Looking Great! Someone's maxed out their photo skills!",
+        "value": "Проектируемая фотография\nОписание: Случайная фотография из путешествий Фрэнсис.\nМетка: Выглядит отлично! Кто-то довел свои фотонавыки до максимума!"
+    },
+    {
+        "key": "Projected Photograph\nDescription: A photo of Jason celebrating Frances's birthday with her.\nTag: Sushi dinner! Oct. 27.",
+        "value": "Проектируемая фотография\nОписание: Фотография Джейсона, отмечающего с ней день рождения Фрэнсис.\nТеги: Суши-ужин! 27 октября."
+    },
+    {
+        "key": "CCTV Terminal\nDescription: Connected to multiple hidden cameras and microphones \ndeployed around all entrances and exits of this building.",
+        "value": "Терминал видеонаблюдения\nОписание: Подключен к множеству скрытых камер и микрофонов\nразмещенным вокруг всех входов и выходов этого здания."
+    },
+    {
+        "key": "Ion Photo Frame\nMaker: United Electronics\nDescription: Ionizes air particles with lasers to display high-resolution images.",
+        "value": "Ионная фоторамка\nПроизводитель: United Electronics\nОписание: Ионизирует частицы воздуха с помощью лазеров для отображения изображений высокого разрешения."
+    },
+    {
+        "key": "Earthquake Notice\nType: Community Bulletin\nDescription: Behemoth Energy Industries Earthquake Alert: \nThere will be an induced earthquake on Dec. 31. \nPlease secure all furniture.\n ------\n Estimated Power Output: 75.3 TWh\n Generator: Irenic Rim Generators – [Subterranean Bull]\n Price Change: -$2 per kWh.",
+        "value": "Уведомление о землетрясении\nТип: Общественный бюллетень\nОписание: Предупреждение о землетрясении от Behemoth Energy Industries:\n31 декабря произойдет землетрясение.\nПожалуйста, закрепите всю мебель.\n ------\n Предполагаемая мощность: 75,3 ТВтч\n Генератор: Irenic Rim Generators - [Subterranean Bull]\n Изменение цены: -$2 за кВтч."
+    },
+    {
+        "key": "Sticky Note\nDescription: There's writing scribbled on it.\n ------------------------------------------------------------\n<i>\"Don't forget the password! Here's a hint!\"</i>\n<i>\"Serial number from the implant rejection meds.\"</i>",
+        "value": "Липкая записка\nОписание: На ней нацарапаны буквы.\n ------------------------------------------------------------\n<i>\"Не забудьте пароль! Вот подсказка!\"</i>\n<i>\"Серийный номер из препаратов для отбраковки имплантатов.\"</i>"
+    },
+    {
+        "key": "Quantum Beacon\nDescription: Attach this to any computational device to establish \nencrypted quantum link. There's a minimum bandwidth requirement and \nit's pretty high.",
+        "value": "Квантовый маяк\nОписание: Прикрепите его к любому вычислительному устройству, чтобы установить\nзашифрованную квантовую связь. Существует минимальное требование к пропускной способности, и\nона довольно высока."
+    },
+    {
+        "key": "Sign: Surveillance Room",
+        "value": "Знак: Комната наблюдения"
+    },
+    {
+        "key": "Floating Display\nModel: #X-1 Medical\nDescription: For viewing documents and controlling smart devices, eg. doors or IV pumps.\n--------------------------------------------------------------------------------------------------\n<i>Donated by the Anyong Xiatian Temple </i>",
+        "value": "Плавающий дисплей\nМодель: #X-1 Medical\nОписание: Для просмотра документов и управления интеллектуальными устройствами, например, дверьми или капельницами.\n--------------------------------------------------------------------------------------------------\n<i>Подарено храмом Anyong Xiatian Temple</i>"
+    },
+    {
+        "key": "Construction Notice\nProject: YoYa Commerce Center\nOwner: YoYa Real Estate\nDescription: Someone pried it off a long time ago.",
+        "value": "Уведомление о строительстве\nПроект: Торговый центр YoYa\nВладелец: YoYa Real Estate\nОписание: Кто-то давно оторвал его."
+    },
+    {
+        "key": "Random Stuff\nDescription: A cardboard box filled with laundry and food, which, \nby the way, is mostly snacks.",
+        "value": "Случайные вещи\nОписание: Картонная коробка, наполненная бельем и едой, которая,\nкстати, в основном закусками."
+    },
+    {
+        "key": "Power Generator\nDescription: Runs on a diesel engine.\nNote: Fossil fuels are outlawed.",
+        "value": "Генератор энергии\nОписание: Работает на дизельном двигателе.\nПримечание: Ископаемое топливо запрещено."
+    },
+    {
+        "key": "SA1 Alarm Probe\nDescription: Area surveillance probe, outdated model. It actively detects \neverything that happens nearby, but the radius is pretty rather short.",
+        "value": "Сигнальный зонд SA1\nОписание: Зонд для наблюдения за территорией, устаревшая модель. Он активно обнаруживает\nвсе, что происходит поблизости, но радиус действия довольно мал."
+    },
+    {
+        "key": "Smart Butler V3\nMaker: United Electronics\nDescription: Collects and uploads data from the room to the cloud. \nControls appliances and optimizes the room for comfort.\n -------------------------------------------------------------------------------------------------\nStatus: Not connected to the internet. \nNot connected to any environmental data collection services.",
+        "value": "Умный дворецкий V3\nПроизводитель: United Electronics\nОписание: Собирает и загружает данные из комнаты в облако.\nУправляет бытовой техникой и оптимизирует помещение для комфорта.\n -------------------------------------------------------------------------------------------------\nСтатус: Не подключен к Интернету.\nНе подключен к каким-либо службам сбора экологических данных."
+    },
+    {
+        "key": "PC\nDescription: No make or model, with performance boosting and \ndecryption add-ons. Some parts appear to be the work of highly \nadvanced DIY.\nNote: This thing is ILLEGAL.",
+        "value": "PC\nОписание: Независимо от марки и модели, с дополнительными функциями повышения производительности и\nдополнениями для расшифровки. Некоторые части выглядят как работа\nпродвинутых \"сделай сам\".\nПримечание: Эта вещь является незаконной."
+    },
+    {
+        "key": "Projector\nDescription: Quite lightweight for its size, trading off image quality for \nportability.",
+        "value": "Проектор\nОписание: Довольно легкий для своего размера, уступая в качестве изображения за\nпортативность."
+    },
+    {
+        "key": "Wanpei Beer\nMaker: Wanpei Brewery\nDescription: When a Wanpeier says \"grab a beer\", chances are they \nhave a specific brand in mind.",
+        "value": "Пиво Ванпея\nПроизводитель: Пивоварня Ванпея\nОписание: Когда житель Ванпея говорит \"возьмите пиво\", скорее всего\nон имеют в виду конкретный бренд."
+    },
+    {
+        "key": "Sign: Security Room (Side Entrance)",
+        "value": "Знак: Комната охраны (боковой вход)"
+    },
+    {
+        "key": "Sign: Break Room\nBreak Room",
+        "value": "Знак: Комната отдыха\nКомната отдыха"
+    },
+    {
+        "key": "Scorpion Gang Logo\nDescription: If you see this, you're in the Scorpion Gang's territory. \nScorpion is a small-time smuggling organization that is not yet on the \npolice's radar.",
+        "value": "Логотип банды Скорпиона\nОписание: Если вы видите это, значит, вы находитесь на территории банды Скорпиона.\nСкорпион - это мелкая контрабандистская организация, которая пока не попала в поле зрения\nполиции."
+    },
+    {
+        "key": "Sign: Security Room (Front Entrance) \nDescription: Unless in emergency, use the side entrance.",
+        "value": "Вывеска: Комната охраны (передний вход)\nОписание: Если не требуется экстренная помощь, используйте боковой вход."
+    },
+    {
+        "key": "Sign: Shuttles \nDescription: Platform for shuttle trains. ",
+        "value": "Знак: Шаттлы\nОписание: Платформа для маршрутных поездов."
+    },
+    {
+        "key": "Supply Crate\nDescription: Military grade rugged crate, with an extra anti X-ray layer.\nNote: There's a tag saying \"Trust me, you can't afford to drop this.\"",
+        "value": "Ящик с припасами\nОписание: Прочный ящик военного класса с дополнительным антирентгеновским слоем.\nПримечание: есть бирка с надписью \"Поверь мне, ты не можешь позволить себе уронить это\"."
+    },
+    {
+        "key": "Shooting Range Rules\nDescription: Handwritten rules scrawled with a marker.\nContent: Use the shooting range like a civilized person. Follow RULES!\nI. Keep track of your own damn gun.\nII. The last person leaving the range, turn the alarm system on! Ammo \ntheft is a thing!\n*You forget the rules, you die!",
+        "value": "Правила стрельбища\nОписание: Рукописные правила, нацарапанные маркером.\nСодержание: Пользуйтесь тиром как цивилизованный человек. Соблюдайте правила!\nI. Следи за своим чертовым оружием.\nII. Последний, кто покидает тир, включает сигнализацию! Патроны\nворуют!\n*Забудешь правила - умрешь!"
+    },
+    {
+        "key": "Sign: Restrooms\nRestrooms",
+        "value": "Знак: Туалеты\nКомнаты отдыха"
+    },
+    {
+        "key": "Container\nDescription: Custom made container for unclear purposes. Content \nlabeled as \"deceased computing units\".\nNote: There's a sticking on it saying, \"to be incinerated\".",
+        "value": "Контейнер\nОписание: Изготовленный на заказ контейнер для непонятных целей. Содержимое\nпомечено как \"умершие вычислительные блоки\".\nПримечание: на нем наклеена надпись \"для сжигания\"."
+    },
+    {
+        "key": "Supply Crate\nDescription: Military grade rugged crate, with an extra anti X-ray layer.\nNote: There's a tag saying \"CAUTION: EXPLOSIVE\".",
+        "value": "Ящик с припасами\nОписание: Прочный ящик военного класса, с дополнительным антирентгеновским слоем.\nПримечание: есть бирка с надписью \"ОСТОРОЖНО: взрывоопасно\"."
+    },
+    {
+        "key": "Emergency Ventilation\nDescription: Air quality monitoring system with an emergency ventilation \nmodule that activates upon gas leak from the Deep Bay.",
+        "value": "Аварийная вентиляция\nОписание: Система мониторинга качества воздуха с модулем аварийной вентиляции\nМодуль аварийной вентиляции, который активируется при утечке газа из глубокого отсека."
+    },
+    {
+        "key": "Vending Machine\nDescription: Soda vending machine, made by Datum Electronics. \nThis is one of their older models without automatic restocking features.\nNote: \"Vision employees get free soda!\"\n",
+        "value": "Торговый автомат\nОписание: Торговый автомат по продаже газировки, изготовленный компанией Datum Electronics.\nЭто одна из их старых моделей без функции автоматического пополнения запасов.\nПримечание: \"Сотрудники Vision получают бесплатную газировку!\".\n"
+    },
+    {
+        "key": "Pneumatic Drop Slot\nDescription: Vision has an internal pneumatic tube system. Drop what you need to send inside. \nDon't forget to label the cylinder for proper delivery.",
+        "value": "Пневматический паз\nОписание: Vision имеет внутреннюю систему пневматических трубок. Опустите внутрь то, что вам нужно отправить.\nНе забудьте пометить баллон для правильной доставки."
+    },
+    {
+        "key": "R2 Charging Station\nDescription: The charging station for porter robot model R2.",
+        "value": "Зарядная станция R2\nОписание: Зарядная станция для робота-портного модели R2."
+    },
+    {
+        "key": "Hand Sanitizer\nDescription: Hand sanitizer dispenser made by Vision.\nNote: \"Employees must wash hands after consultation and contract sessions. Keep the \nfarm virus-free.\"",
+        "value": "Дезинфицирующее средство для рук\nОписание: Диспенсер для дезинфицирующего средства для рук производства компании Vision.\nПримечание: \"Сотрудники должны мыть руки после консультаций и заключения договоров. Следите за тем, чтобы\nферму свободной от вирусов\"."
+    },
+    {
+        "key": "Pneumatic Receive Slot\nDescription: Vision has an internal pneumatic tube system. Collect incoming cylinders here. \nPorter robots will bring it over to you if the destination is properly labelled.",
+        "value": "Пневматический приемный паз\nОписание: Vision имеет внутреннюю систему пневматических трубок. Собирайте поступающие баллоны здесь.\nРоботы-портеры доставят их вам, если место назначения правильно обозначено."
+    },
+    {
+        "key": "Protest Flyer\nDescription: Signed by multiple workers, accusing YoYa of putting the \nproject \"indefinitely on hold\" to avoid paying workers severance \npackages.",
+        "value": "Листовка протеста\nОписание: Подписана несколькими рабочими, обвиняющими YoYa в том, что она отложила проект\nпроект \"на неопределенный срок\", чтобы не выплачивать рабочим выходное пособие\nпакеты."
+    },
+    {
+        "key": "SV Intelligent Camera\nDescription: Feature-rich camera made by Sunrise, augmented with AI to detect and evaluate targets.",
+        "value": "Интеллектуальная камера SV\nОписание: Многофункциональная камера от Sunrise, дополненная искусственным интеллектом для обнаружения и оценки целей."
+    },
+    {
+        "key": "Deep Bay Real Time Status \nDescription: An interface showing the current status of the Deep Bay. \n254,000 computing units online. 40.83% generated flops supplied to external destinations, the rest fed back into Project Sleeping God.",
+        "value": "Глубокий залив в реальном времени\nОписание: Интерфейс, отображающий текущий статус Deep Bay.\n254 000 вычислительных единиц в сети. 40,83% сгенерированных флопсов отправлено на внешние цели, остальное возвращено в проект \"Спящий Бог\"."
+    },
+    {
+        "key": "PA Speaker\nDescription: Controlled by Silencio itself to make public announcements. \nOrders from Silencio must be followed immediately and unconditionally. \nSenior executives T3 and higher may use discretion.",
+        "value": "Динамик громкой связи\nОписание: Управляется самим Silencio для публичных объявлений.\nПриказы Silencio должны выполняться немедленно и безоговорочно.\nСтаршие руководители Т3 и выше могут действовать по своему усмотрению."
+    },
+    {
+        "key": "Fyson Hand Dryer\nDescription: The latest and fanciest hand dryer from Fyson.",
+        "value": "Сушилка для рук Fyson\nОписание: Новейшая и самая модная сушилка для рук от Fyson."
+    },
+    {
+        "key": "Porter Robot R2\nDescription: Robot developed by Sunrise to move stuff around. \nModel R2 is equipped with basic AI capabilities, able to find its own route and respond to simple verbal inquiries. \nIt can be integrated into many logistics systems.",
+        "value": "Робот Портер R2\nОписание: Робот, разработанный компанией Sunrise для перемещения вещей.\nМодель R2 оснащена базовыми возможностями искусственного интеллекта, способна самостоятельно находить маршрут и отвечать на простые устные запросы.\nОн может быть интегрирован во многие логистические системы."
+    },
+    {
+        "key": "Sign: Service Tunnel\nDescription: A service entrance to perform maintenance on the Cellar's ducts and pipes.",
+        "value": "Знак: Служебный тоннель\nОписание: Служебный вход для обслуживания воздуховодов и труб Подвала."
+    },
+    {
+        "key": "Sign: Break Room (Logistics)\nDescription: A break room for the Logistics team only.",
+        "value": "Знак: Комната отдыха (Логистика)\nОписание: Комната отдыха только для сотрудников отдела Логистики."
+    },
+    {
+        "key": "Snack Theft Is a Crime\nDescription: An administrative notice.\nNote: \"Do not take food or beverage that does not belong to you. \nGoing forward, snack thieves will face administrative punishment.\"",
+        "value": "Кража закусок - это преступление\nОписание: Административное уведомление.\nПримечание: \"Не берите еду или напитки, которые вам не принадлежат.\nВ дальнейшем воры закусок будут подвергаться административному наказанию\"."
+    },
+    {
+        "key": "Breaker\nDescription: Controls the power supply of the Cellar elevator. \nRestart the elevator with this when it's malfunctioning.\nNote: Judging by its condition, this thing has seen some quite heavy use.",
+        "value": "Брейкер\nОписание: Контролирует электропитание лифта Подвала.\nС его помощью можно перезапустить лифт, если он неисправен.\nПримечание: Судя по его состоянию, эта штука использовалась довольно интенсивно."
+    },
+    {
+        "key": "Air Fryer\nDescription: Air fryer made by Datum Electronics, intentionally keeping the much-loved vintage style.",
+        "value": "Воздушная фритюрница\nОписание: Фритюрница производства Datum Electronics, намеренно сохранившая полюбившийся винтажный стиль."
+    },
+    {
+        "key": "Sign: Security\nDescription: Security guards work here. \nThey keep an eye on everyone going into and out of the farm.",
+        "value": "Знак: Безопасность\nОписание: Здесь работают охранники.\nОни следят за всеми, кто входит и выходит с фермы."
+    },
+    {
+        "key": "Trash Can\nDescription: Smart trash can from KIEA, with a sensor that informs the housekeeping robot (if any) when it's full.",
+        "value": "Мусорный бак\nОписание: Умное мусорное ведро от KIEA с датчиком, который сообщает роботу-уборщику (если таковой имеется), когда оно переполнено."
+    },
+    {
+        "key": "Updated Restroom Quota\nDescription: A company announcement.\nNote: \"An employee may use the restroom up to FIVE times per day, effective immediately. \nExcessive usage of restroom will be negatively reflected in performance review.\"",
+        "value": "Обновленная квота на уборные\nОписание: Объявление компании.\nПримечание: \"Сотрудник может пользоваться туалетом не более ПЯТИ раз в день, начиная с этого момента.\nЧрезмерное пользование уборной будет негативно отражено в аттестации\"."
+    },
+    {
+        "key": "Sign: Consultation Lobby\nDescription: The place where Screening employees perform their daily work. \nEntry limited to team members with active assignments only.",
+        "value": "Вывеска: Вестибюль консультаций\nОписание: Место, где сотрудники Сортировки выполняют свою ежедневную работу.\nВход только для членов команды с активными заданиями."
+    },
+    {
+        "key": "Sign: Manager\nDescription: The office of the farm manager.",
+        "value": "Знак: Менеджер\nОписание: Офис управляющего фермой."
+    },
+    {
+        "key": "Sign: Screening\nDescription: The office of the Screening division.",
+        "value": "Знак: Сортировка\nОписание: Офис отдела Сортировки."
+    },
+    {
+        "key": "Dinner Order Terminal\nDescription: Farm employees order their daily meals here.\nNote: \"Be advised that each employee has a monthly meal allowance. \nExcessive spending will be deducted from salary by up to 200%.\"",
+        "value": "Терминал для заказа обедов\nОписание: Работники фермы заказывают здесь свои ежедневные обеды.\nПримечание: \"Имейте в виду, что каждому работнику положена месячная норма питания.\nЧрезмерные траты будут вычитаться из зарплаты на 200%\"."
+    },
+    {
+        "key": "Silencio Nexus Port\nDescription: These ports can be found all over the farm. \nPlug a device in to access core functions of Silencio.\nNote: \"Use Nexus ports for troubleshooting when the farm wireless network is acting up or blacking out.\"",
+        "value": "Silencio Nexus Port\nОписание: Эти порты можно найти по всей ферме.\nПодключите к ним устройство, чтобы получить доступ к основным функциям Silencio.\nПримечание: \"Используйте порты Nexus для поиска и устранения неисправностей, когда беспроводная сеть фермы не работает или отключается\"."
+    },
+    {
+        "key": "Turtle Tank\nDescription: An aquarium tank, home to a red-eared slider. \nIt's not moving. Can't tell if it's real or fake.",
+        "value": "Резервуар для черепах\nОписание: Аквариумный аквариум, в котором живет красноухий ползун.\nОн не двигается. Невозможно определить, настоящий он или поддельный."
+    },
+    {
+        "key": "Money Tree\nDescription: Presented to Eva Yeh on her promotion day. The original gift note is still attached.\nNote: \"Congrats, Ms. Yeh! I trust Silencio is in good hands. - Shane Yan.\"",
+        "value": "Денежное дерево\nОписание: Подарено Еве Йех в день ее повышения. Оригинальная подарочная записка все еще прилагается.\nПримечание: \"Поздравляю вас, мисс Йех! Я верю, что Silencio в хороших руках. - Шейн Ян\"."
+    },
+    {
+        "key": "Feng Shui Decorations\nDescription: Crystal and Feng Shui ball, to usher in positive energy. \nThere's an inscribed motto on the base.\nNote: \"Lose not your original resolve.\"",
+        "value": "Украшения по фэн-шуй\nОписание: Кристалл и шар фэн-шуй для привлечения положительной энергии.\nНа основании выгравирован девиз.\nПримечание: \"Не теряй своей первоначальной решимости\"."
+    },
+    {
+        "key": "Civilized Usage of Microwave\nDescription: A public notice, with a handwritten note attached.\nContent: \"DO NOT heat foods of strong odor with the microwave. Thanks.\"\n\"The illiterate who keeps microwaving stinky tofu, \nwhoever you are, <i>whatever</i> you are, I will find you and I will kill you!!!\"",
+        "value": "Цивилизованное использование микроволновой печи\nОписание: Публичное уведомление с приложенной рукописной запиской.\nСодержание: \"НЕ разогревайте в микроволновой печи продукты с сильным запахом. Спасибо\".\n\"Неграмотный, который продолжает разогревать в микроволновке вонючий тофу,\nкто бы ты ни был, <i>что бы</i> ты ни был, я найду тебя и убью!!!\""
+    },
+    {
+        "key": "Lobby Ambience System\nDescription: This system keeps track of the general environment in the lobby, \nincluding temperature, humidity, noise level, and much more. \nIn the event of emergency, it also shows security alerts.",
+        "value": "Система создания атмосферы в холле\nОписание: Эта система отслеживает общую обстановку в вестибюле,\nвключая температуру, влажность, уровень шума и многое другое.\nВ случае чрезвычайной ситуации она также показывает сигналы безопасности."
+    },
+    {
+        "key": "MindsBeneathUs.exe\nDescription: ¥̵̧̢̬͖͎̥ͦ̍̌̚ͅ*̵̴̟̣̲̤̪̱̄͐ͨͪͯͫ̏ͅ{̗̖͕̬̐ͤ*̞̦̺̠̺̙̎̐ͦ̇̐̀ͥ?̆͑̒̿̆҉̩̳%ͭͥ̌ͤ͗ͣͫ̔͊͏͙̬̯̪͉̤̦͉͘]̢̛̳͈͔͓̝̘ͨ͢€̘͈̰̮̱̖͛̈́̇̌͋̎̀͞ͅ<̛̹͇ͬ̏̎ͪ+̸͈͖͈̱̺̘͚̞̣͆̓͝?̧̪̱̺̠̝̟͗̔'̶̐̅̆̿̒̊ͨͫ͏̩̥̼w̰͖͎̣̘̃͆ͯͯͤ̽̈ͬb̧̛͍̪̩̦̯ͫ̒͊̉͒c̹̗̯̭̠̏̄̾̍ͫï͖͇̼̦̅͞͡¥͔̙̀ͤ͠;̨͚̬̏ͥ̂ͯ̐ͫͩ¥̵̧̢̬͖͎̥ͦ̍̌̚ͅ*̵̴̟̣̲̤̪̱̄͐ͨͪͯͫ̏ͅ{̗̖͕̬̐ͤ*̞̦̺̠̺̙̎̐ͦ̇̐̀ͥ?̆͑̒̿̆҉̩̳%ͭͥ̌ͤ͗ͣͫ̔͊͏͙̬̯̪͉̤̦͉͘]̢̛̳͈͔͓̝̘ͨ͢€̘͈̰̮̱̖͛̈́̇̌͋̎̀͞ͅ<̛̹͇ͬ̏̎ͪ+̸͈͖͈̱¥̵̧̢̬͖͎̥ͦ̍̌̚ͅ*̵̴̟̣̲̤̪̱̄͐ͨͪͯͫ̏ͅ{̗̖͕̬̐ͤ*̞̦̺̠̺̙̎̐ͦ̇̐̀ͥ?̆͑̒̿̆҉̩̳%ͭͥ̌ͤ͗ͣͫ̔͊͏͙̬̯̪͉̤̦͉͘]̢̛̳͈͔͓̝̘ͨ͢€̘͈̰̮̱̖͛̈́̇̌͋̎̀͞ͅ<̛̹͇ͬ̏̎ͪ+̸͈͖͈̱̺̘͚̞̣͆̓͝?̧̪̱̺̠̝̟͗̔'̶̐̅̆̿̒̊ͨͫ͏̩̥̼w̰͖͎̣̘̃͆ͯͯͤ̽̈ͬb̧̛͍̪̩̦̯ͫ̒͊̉͒c̹̗̯̭̠̏̄̾̍ͫï͖͇̼̦̅͞͡¥͔̙̀ͤ͠;̨͚̬̏ͥ̂ͯ̐ͫͩ¥̵̧̢̬͖͎̥ͦ̍̌̚ͅ*̵̴̟̣̲̤̪̱̄͐ͨͪͯͫ̏ͅ{̗̖͕̬̐ͤ*̞̦̺̠̺̙̎̐ͦ̇̐̀ͥ?̆͑̒̿̆҉̩̳%ͭͥ̌ͤ͗ͣͫ̔͊͏͙̬̯̪͉̤̦͉͘]̢̛̳͈͔͓̝̘ͨ͢€̘͈̰̮̱̖͛̈́̇̌͋̎̀͞ͅ<̛̹͇ͬ̏̎ͪ+̸͈͖͈̱",
+        "value": "MindsBeneathUs.exe\nОписание: ¥̵̧̢̬͖͎̥ͦ̍̌̚Ι*̵̴̟̣̲̤̪̱̄͐ͨͪͯͫ̏Ι{̗̖͕̬̐ͤ*̞̦̺̠̺̙̎̐ͦ̇̐̀ͥ?̆͑̒̿̆҉̩̳%ͭͥ̌ͤ͗ͣͫ̔͊͏͙̬̯̪͉̤̦͉͘]̢̛̳͈͔͓̝̘ͨ͢€̘͈̰̮̱̖͛̈́̇̌͋̎̀͞Ι<̛̹͇ͬ̏̎ͪ+̸͈͖͈̱̺̘͚̞̣͆̓͝?̧̪̱̺̠̝̟͗̔'̶̐̅̆̿̒̊ͨͫ͏̩̥̼w̰͖͎̣̘̃͆ͯͯͤ̽̈ͬb̧̛͍̪̩̦̯ͫ̒͊̉͒c̹̗̯̭̠̏̄̾̍ͫï͖͇̼̦̅͞͡¥͔̙̀ͤ͠;̨͚̬̏ͥ̂ͯ̐ͫͩ¥̵̧̢̬͖͎̥ͦ̍̌̚ͅ*̵̴̟̣̲̤̪̱̄͐ͨͪͯͫ̏ͅ{̗̖͕̬̐ͤ*̞̦̺̠̺̙̎̐ͦ̇̐̀ͥ?̆͑̒̿̆҉̩̳%ͭͥ̌ͤ͗ͣͫ̔͊͏͙̬̯̪͉̤̦͉͘]̢̛̳͈͔͓̝̘ͨ͢€̘͈̰̮̱̖͛̈́̇̌͋̎̀͞Ι<̛̹͇ͬ̏̎ͪ+̸͈͖͈̱¥̵̧̢̬͖͎̥ͦ̍̌̚Ι*̵̴̟̣̲̤̪̱̄͐ͨͪͯͫ̏Ι{̗̖͕̬̐ͤ*̞̦̺̠̺̙̎̐ͦ̇̐̀ͥ?̆͑̒̿̆҉̩̳%ͭͥ̌ͤ͗ͣͫ̔͊͏͙̬̯̪͉̤̦͉͘]̢̛̳͈͔͓̝̘ͨ͢€̘͈̰̮̱̖͛̈́̇̌͋̎̀͞Ι<̛̹͇ͬ̏̎ͪ+̸͈͖͈̱̺̘͚̞̣͆̓͝?̧̪̱̺̠̝̟͗̔'̶̐̅̆̿̒̊ͨͫ͏̩̥̼w̰͖͎̣̘̃͆ͯͯͤ̽̈ͬb̧̛͍̪̩̦̯ͫ̒͊̉͒c̹̗̯̭̠̏̄̾̍ͫï͖͇̼̦̅͞͡¥͔̙̀ͤ͠;̨͚̬̏ͥ̂ͯ̐ͫͩ¥̵̧̢̬͖͎̥ͦ̍̌̚ͅ*̵̴̟̣̲̤̪̱̄͐ͨͪͯͫ̏ͅ{̗̖͕̬̐ͤ*̞̦̺̠̺̙̎̐ͦ̇̐̀ͥ?̆͑̒̿̆҉̩̳%ͭͥ̌ͤ͗ͣͫ̔͊͏͙̬̯̪͉̤̦͉͘]̢̛̳͈͔͓̝̘ͨ͢€̘͈̰̮̱̖͛̈́̇̌͋̎̀͞Ι<̛̹͇ͬ̏̎ͪ+̸͈͖͈̱"
+    },
+    {
+        "key": "Screening Group Pictures\nDescription: A series of group pictures showing the Screening team in parties and conferences.",
+        "value": "Групповые фотографии отдела Сортировки\nОписание: Серия групповых фотографий, на которых изображена команда Сортировки на вечеринках и конференциях."
+    },
+    {
+        "key": "Birthday Card\nDescription: A card dedicated to Wayne, with good wishes from the entire Screening team.",
+        "value": "Открытка с днем рождения\nОписание: Открытка, посвященная Уэйну, с наилучшими пожеланиями от всей команды Сортировки."
+    },
+    {
+        "key": "Garage Control\nDescription: A control panel for the parking garage.",
+        "value": "Управление гаражом\nОписание: Пульт управления гаражом."
+    },
+    {
+        "key": "Tokidoki Mahou Shoujo Figurine\nDescription: A figurine of Mim the Golden Slayer from the anime series Tokidoki Mahou Shoujo.",
+        "value": "Фигурка Tokidoki Mahou Shoujo\nОписание: Фигурка золотой истребительницы Мим из аниме-сериала Tokidoki Mahou Shoujo."
+    },
+    {
+        "key": "Security Scanner\nDescription: Portable scanner developed by Sunrise, \ncommonly used at entrances and exits to check for weapons and storage devices.",
+        "value": "Сканер безопасности\nОписание: Портативный сканер, разработанный компанией Sunrise,\nобычно используется на входах и выходах для проверки наличия оружия и устройств хранения."
+    },
+    {
+        "key": "Notice Board\nDescription: A fancy digital notice board. Current message, \"Elevator for authorized personnel only. Do not block.\"",
+        "value": "Доска объявлений\nОписание: Причудливая цифровая доска объявлений. Текущее сообщение: \"Лифт только для авторизованного персонала. Не блокировать\"."
+    },
+    {
+        "key": "Racking Terminal\nDescription: The Ops team uses this on a daily basis to rack and unrack contributors.",
+        "value": "Терминал загрузки\nОписание: Команда Оперативного отдела ежедневно использует этот терминал для загрузки и выгрузки вкладчиков."
+    },
+    {
+        "key": "Puddles Figurine\nDescription: A gacha figurine toy line that is ridiculously popular, \nespecially Pooper, a green pile of cutie creature that is shaped faithfully like its name...",
+        "value": "Фигурка \"Лужи\nОписание: Линия игрушек-фигурок gacha, которая пользуется невероятной популярностью,\nОсобенно Пупер, зеленая куча милых существ, которые по форме точно соответствуют своему названию..."
+    },
+    {
+        "key": "Farm Status\nDescription: A detailed real-time report on the status of flop farm \"Silencio\", \nshowing flop output, network reliability, client demand, and so on.",
+        "value": "Состояние фермы\nОписание: Подробный отчет о состоянии флоп-фермы \"Silencio\" в реальном времени,\nпоказывает производительность флопа, надежность сети, спрос клиентов и так далее."
+    },
+    {
+        "key": "Congrats Card\nDescription: A card dedicated to Wayne, on the day he became the Screening lead. \nOn top of congrats, the team also wrote a long list of requests, such as salary raise and free beer...",
+        "value": "Поздравительная открытка\nОписание: Открытка, посвященная Уэйну, в день, когда он стал руководителем отдела Сортировки.\nПомимо поздравлений, команда также написала длинный список пожеланий, таких как повышение зарплаты и бесплатное пиво..."
+    },
+    {
+        "key": "Sign: Pneumatic Shipping Station\nDescription: This shipping station is connected to Vision's industrial plants. \nIt allows for much larger packages.",
+        "value": "Знак: Пневматическая станция отгрузки\nОписание: Эта станция отгрузки связана с промышленными предприятиями Vision.\nОна позволяет отправлять гораздо более крупные пакеты."
+    },
+    {
+        "key": "Cactus\nDescription: A bonsai cactus, with beautiful calligraphy on the side.\nNote: The calligraphy says, \"Against adversity, thrive. - George Liao\"",
+        "value": "Кактус\nОписание: Кактус бонсай с красивой каллиграфией на боку.\nПримечание: Каллиграфия гласит: \"Против невзгод - процветай. - Джордж Ляо\"."
+    },
+    {
+        "key": "Helipad Control\nDescription: A control panel providing maintenance personnel with what they need to know, \nsuch as scheduled itineraries and fuel level.\nNote: Must have Level 6 or higher security clearance to access.",
+        "value": "Управление вертолетной площадкой\nОписание: Панель управления, предоставляющая обслуживающему персоналу необходимую информацию,\nнапример, о запланированных маршрутах и уровне топлива.\nПримечание: Для доступа необходимо иметь допуск уровня 6 или выше."
+    },
+    {
+        "key": "Multi-Destination Dispatching\nDescription: Racked contributors are sent to multiple destinations. \nThe process is highly automated, although human supervision is required at all times.",
+        "value": "Диспетчеризация по нескольким направлениям\nОписание: Загруженные вкладчики отправляются в несколько пунктов назначения.\nЭтот процесс в значительной степени автоматизирован, хотя контроль со стороны человека необходим постоянно."
+    },
+    {
+        "key": "Exhibition Board\nDescription: A large board proudly showing the day that Farm 003 \"Silencio\" made history.\n-------------------------------------------------------------------------\n\"Silencio, Vision's first flop farm with a self-contained Cellar, marks the beginning of a new era. \nHumanity made a stride toward greatness.\"",
+        "value": "Выставочная доска\nОписание: Большая доска с гордостью демонстрирует день, когда ферма 003 \"Silencio\" вошла в историю.\n-------------------------------------------------------------------------\n\"Silencio, первая флоп-ферма Vision с автономным Подвалом, знаменует собой начало новой эры.\nЧеловечество сделало шаг к величию\"."
+    },
+    {
+        "key": "Elevator\nDescription: You can tell this elevator was installed to replace an old ladder, \nas if they didn't expect to use the room up above so often back in the day.",
+        "value": "Лифт\nОписание: Видно, что этот лифт был установлен взамен старой лестницы,\nкак будто они не ожидали, что в те времена комната наверху будет использоваться так часто."
+    },
+    {
+        "key": "Mounting Plate\nDescription: Racked contributors are mounted on plates like these for support and transportation. \nThe plate has built-in ports for flop cables and life support lines.",
+        "value": "Монтажная пластина\nОписание: Загруженные вкладчики устанавливаются на такие пластины для поддержки и транспортировки.\nВ пластину встроены порты для кабелей флопа и линий жизнеобеспечения."
+    },
+    {
+        "key": "Elevator Control Panel\nDescription: Use this panel to manually override if the Cellar elevator is stuck midway.",
+        "value": "Панель управления лифтом\nОписание: Используйте эту панель для ручного управления, если лифт в Подвале застрял на полпути."
+    },
+    {
+        "key": "Nail Gun\nDescription: Pneumatic nail gun fixed to the ceiling. \nThis, plus fixtures in the standard suit, keeps racked contributors in place.",
+        "value": "Пистолет для гвоздей\nОписание: Пневматический гвоздезабивной пистолет, закрепленный на потолке.\nБлагодаря этому, а также креплениям в стандартном костюме, загруженные вкладчики остаются на своих местах."
+    },
+    {
+        "key": "Backup Power Supply\nDescription: Uninterruptible power supply for the racking system. \nIt's absolutely necessary, as interrupted racking may cause permanent injury or death.",
+        "value": "Источник резервного питания\nОписание: Источник бесперебойного питания для системы загрузки.\nОн абсолютно необходим, так как перебои в работе загрузки могут привести к необратимым травмам или смерти."
+    },
+    {
+        "key": "Sign: Visitor Entrance\nDescription: Entrance into the Cellar, for non-employees (mostly contributors). \nThey must take a separate elevator and pass intensive security check.",
+        "value": "Знак: Вход для посетителей\nОписание: Вход в Подвал, предназначенный для лиц, не являющихся сотрудниками (в основном, вкладчиков).\nОни должны спуститься на отдельном лифте и пройти интенсивный контроль безопасности."
+    },
+    {
+        "key": "Use",
+        "value": "Используйте"
+    },
+    {
+        "key": "Behave Cream Puff\nDescription: Pack of cream puff, coconut flavored, expired, brand name \"Behave\".\nNote: There's a widespread notion among engineers \nthat keeping a pack Behave around machines will keep glitches and malfunctions away.",
+        "value": "Кремовая пуховка Behave\nОписание: Упаковка кремовой слойки, со вкусом кокоса, просроченная, торговая марка \"Behave\".\nПримечание: Среди инженеров широко распространено мнение.\nчто если держать упаковку Behave рядом с машинами, то это убережет их от сбоев и неполадок."
+    },
+    {
+        "key": "E-Zine\nHeading: The End of Encryption?\nContent: \nWith the rise of powerful chips and AI systems, traditional encryption simply doesn't keep your data safe anymore. \nWe're seeing more than a few corporations going back to the \"primitive way\", \nby sending sensitive data around in physical copies. \nAt the same time, though, quantum encryption is rapidly on the rise, poised to become the way of the future.",
+        "value": "E-Zine\nРубрика: Конец шифрования?\nСодержание:\nС появлением мощных чипов и систем искусственного интеллекта традиционное шифрование больше не может обеспечить безопасность ваших данных.\nВсе больше корпораций возвращаются к \"примитивному способу\",\nотправляя конфиденциальные данные в физических копиях.\nВ то же время квантовое шифрование стремительно набирает обороты и готово стать дорогой в будущее."
+    },
+    {
+        "key": "Turn Off",
+        "value": "Выключить"
+    },
+    {
+        "key": "Breaker Panel\nDescription: This panel controls the power supply to floor B2.",
+        "value": "Панель выключателя\nОписание: Эта панель управляет подачей питания на этаж B2."
+    },
+    {
+        "key": "Read",
+        "value": "Читать"
+    },
+    {
+        "key": "Sit",
+        "value": "Сидеть"
+    },
+    {
+        "key": "Talk",
+        "value": "Поговорим"
+    },
+    {
+        "key": "Cellar Elevator Secondary Switches\nDescription: This panel controls the power supply to auxiliary systems of the Cellar elevator.",
+        "value": "Вторичные выключатели Подвального лифта\nОписание: Эта панель управляет подачей питания на вспомогательные системы Подвального лифта."
+    },
+    {
+        "key": "E-Zine\nHeading: Humans or Computers?\nContent:\nAmid rapid advances in computing technology, the debate whether humans or computers excel in processing persists. \nWhile computers surpass in traditional tasks, \nthey lag behind the human brain in energy efficiency and learning speed. \nTo harness these human advantages, flop generation plants, also known as \"flop farms\", were invented. \nThese facilities excel at processing vast data and making swift, accurate decisions, \neffectively serving various industry needs.",
+        "value": "E-Zine\nРубрика: Люди или компьютеры?\nСодержание:\nНа фоне стремительного развития вычислительной техники не утихают споры о том, кто лучше справляется с обработкой данных - люди или компьютеры.\nХотя компьютеры превосходят людей в традиционных задачах,\nони отстают от человеческого мозга в энергоэффективности и скорости обучения.\nЧтобы использовать эти преимущества человека, были изобретены флоп-генераторы, также известные как \"флоп-фермы\".\nЭти установки отлично справляются с обработкой огромного количества данных и принимают быстрые и точные решения,\nэффективно обслуживая различные потребности промышленности."
+    },
+    {
+        "key": "E-Zine\nHeading: Taihe District's Slum Issue\nContent: \nThe Taihe Industrial District in the suburbs of Wanpei has faced \npersistent controversies and scandal since its establishment. \nInitially populated by illegal structures and impoverished residents, \nthe district's development raised significant relocation concerns.\n\nDespite these challenges, Growell Industries led its rapid development, \ndrawing major companies like Vision and Sunrise. \nThe displaced residents, moved to the district's outskirts, gained employment opportunities from the new industries.\n\nToday, the Taihe District maintains a complex symbiotic relationship with the surrounding slums, \nshowcasing the intertwined challenges and benefits of its growth.",
+        "value": "E-Zine\nРубрика: Проблема трущоб района Тайхэ\nСодержание:\nПромышленный район Тайхэ в пригороде Ванпея с момента своего основания сталкивается с\nс постоянными противоречиями и скандалами с момента своего основания.\nИзначально он был заселен незаконными постройками и бедными жителями,\nРазвитие района вызвало серьезные проблемы с переселением.\n\nНесмотря на эти проблемы, компания Growell Industries возглавила его стремительное развитие,\nПривлекая такие крупные компании, как Vision и Sunrise.\nПереселенные жители, оказавшиеся на окраине района, получили возможность трудоустройства на новых предприятиях.\n\nСегодня район Тайхэ поддерживает сложные симбиотические отношения с окружающими трущобами,\nдемонстрируя взаимосвязанные проблемы и преимущества его развития."
+    },
+    {
+        "key": "E-Zine\nHeading: Jordan Li, a Living Legend\nContent: \nThis week's cover story features Jordan Li, a director at Vision Group. \nBorn into modest circumstances, Mr. Li initially pursued a stable career in public service to support his family, \nwhile also seeking outside investment opportunities. His keen eye for promising enterprises led him to Vision Group.\n\nControversially, as the head of the Internal Investigation Bureau, his close ties with private enterprises drew scrutiny. \nIn response, Li chose early retirement to demonstrate his integrity and \nhas since devoted himself fully to advancing Vision Group. \nHis extensive network now serves as an essential link between the corporation and the government.",
+        "value": "E-Zine\nРубрика: Джордан Ли, живая легенда\nСодержание:\nНа этой неделе на обложке журнала рассказывается о Джордане Ли, директоре компании Vision Group.\nРодившись в скромных условиях, господин Ли сначала сделал стабильную карьеру на государственной службе, чтобы содержать свою семью,\nВ то же время он искал возможности для инвестиций. Его зоркий взгляд на перспективные предприятия привел его в Vision Group.\n\nКогда он возглавил Бюро внутренних расследований, его тесные связи с частными предприятиями стали предметом споров.\nВ ответ на это Ли решил досрочно уйти в отставку, чтобы продемонстрировать свою честность.\nС тех пор он полностью посвятил себя продвижению Vision Group.\nЕго обширная сеть теперь служит важным связующим звеном между корпорацией и правительством."
+    },
+    {
+        "key": "E-Zine\nHeading: Moonflower, in the Eyes of a New Generation\nContent:\nThe Moonflower Riot, an event that shook the country 18 years ago, has once again become a heated topic online. \nThis resurgence of interest was sparked by a frustrated post from a job-seeking university graduate named Huang. \nHe blames the current economic downturn on the lingering effects of the incident, \ncriticizing the radicals of that time for their actions and lamenting that those same individuals \nnow hold senior positions in the workforce. \nHuang's post ignited fierce debates across the web, \nparticularly over whether to call the event a justified social movement or a riot.",
+        "value": "E-Zine\nРубрика: Лунный цветок глазами нового поколения\nСодержание:\nБунт \"Лунного цветка\", событие, потрясшее страну 18 лет назад, вновь стал горячей темой в Интернете.\nПричиной возрождения интереса к этому событию стало сообщение выпускника университета по имени Хуанг, который ищет работу.\nОн обвиняет нынешний экономический спад в затяжных последствиях этого инцидента,\nкритикуя радикалов того времени за их действия и сетуя на то, что те же самые люди\nсейчас занимают руководящие посты в трудовых коллективах.\nПост Хуанга вызвал ожесточенные споры в сети,\nв частности, о том, называть ли это событие оправданным общественным движением или бунтом."
+    },
+    {
+        "key": "Turn On",
+        "value": "Включить"
+    },
+    {
+        "key": "E-Zine\nHeading: The Existential Crisis of Humanity\nContent: \nHumans learn. Advanced learning capability is what sets us apart from animals. \nSadly, the oversupply of knowledge can sometimes be a curse. \nWith the aid from state-of-the-art AI, we are unlocking secrets of the human brain faster than ever before. \nThis process, however, gives birth to a new kind of existential crisis called \"Anthropocentric Dismay\". \nScientists tapping into the potential of AI are finding that computers work, fundamentally, eerily like human brains. \nIf so, is there really such thing as the human soul, or free will? \nMeanwhile, life science is seeing a revival, as researchers work extra hard to find a new way to \nestablish the uniqueness of humanity.",
+        "value": "E-Zine\nРубрика: Экзистенциальный кризис человечества\nСодержание:\nЛюди учатся. Развитая способность к обучению - это то, что отличает нас от животных.\nК сожалению, переизбыток знаний иногда становится проклятием.\nС помощью современного искусственного интеллекта мы раскрываем секреты человеческого мозга быстрее, чем когда-либо прежде.\nОднако этот процесс порождает новый вид экзистенциального кризиса под названием \"антропоцентрическое уныние\".\nУченые, осваивающие потенциал искусственного интеллекта, приходят к выводу, что компьютеры работают, в сущности, жутко похоже на человеческий мозг.\nЕсли это так, то существует ли на самом деле такая вещь, как человеческая душа или свобода воли?\nТем временем наука о жизни переживает возрождение, поскольку исследователи прилагают все усилия, чтобы найти новый способ\nуникальности человечества."
+    },
+    {
+        "key": "Open Door",
+        "value": "Открыть дверь"
+    },
+    {
+        "key": "E-Zine\nHeading: The Bumpy Road of Legalizing Body Implants\nContent:\nRecently, domestic human rights groups have urged the government to liberalize the use of enhanced body implants, \narguing that denying legalization infringes on the freedoms of people with disabilities. \nThey reference the open policy in the United States. \nHowever, an Executive Assembly spokesperson stated that there is no societal consensus on this issue and \nhighlighted significant regulatory challenges due to the complexity and risk of modern implants. \nInstances in the U.S. of weaponized implants have raised concerns about the safety of public spaces, \nmaking regulation difficult. \nProposals to restrict implant users from public places have been considered too discriminatory to pass. \nConsequently, the debate over the legalization of body implants remains unresolved.",
+        "value": "E-Zine\nРубрика: Ухабистый путь легализации имплантации тела\nСодержание:\nВ последнее время отечественные правозащитные группы призывают правительство либерализовать использование усовершенствованных телесных имплантатов,\nутверждая, что отказ в легализации ущемляет свободы людей с ограниченными возможностями.\nОни ссылаются на открытую политику Соединенных Штатов.\nОднако представитель Исполнительной ассамблеи заявил, что в обществе нет единого мнения по этому вопросу и\nподчеркнула значительные проблемы в сфере регулирования, связанные со сложностью и риском современных имплантатов.\nСлучаи использования в США имплантатов с оружием вызвали обеспокоенность по поводу безопасности общественных мест,\nчто затрудняет регулирование.\nПредложения по ограничению доступа пользователей имплантатов в общественные места были сочтены слишком дискриминационными, чтобы их принять.\nТаким образом, споры о легализации имплантатов остаются нерешенными."
+    },
+    {
+        "key": "Begin Session",
+        "value": "Начало сеанса"
+    },
+    {
+        "key": "Close Door",
+        "value": "Закрыть дверь"
+    },
+    {
+        "key": "Use Computer",
+        "value": "Использовать компьютер"
+    },
+    {
+        "key": "Wait",
+        "value": "Подождать"
+    },
+    {
+        "key": "Take Pass",
+        "value": "Пройти"
+    },
+    {
+        "key": "Board",
+        "value": "Правление"
+    },
+    {
+        "key": "Board Van",
+        "value": "Бортовой фургон"
+    },
+    {
+        "key": "Use Elevator",
+        "value": "Использовать лифт"
+    },
+    {
+        "key": "Back to Logistics",
+        "value": "Назад в отдел Логистики"
+    },
+    {
+        "key": "Exit",
+        "value": "Выход"
+    },
+    {
+        "key": "Return Pass",
+        "value": "Обратный проход"
+    },
+    {
+        "key": "E-Zine\nHeading: Free Electricity as a Basic Right\nContent:\nThe discovery of room-temperature superconductors has greatly enhanced energy transmission and storage, \nleading to a significant reduction in electricity costs \nthanks to advancements in geothermal and seismic power generation.\nRecently, some civil groups have started advocating for free electricity as a basic human right, \ncalling for a reversal of the energy sector's full privatization from ten years ago and proposing that \nthe government provide free electricity to non-commercial users.\nIn response, the CEO of Growell Group dismissed this idea in a recent interview, stating, \n\"Lower costs do not mean no costs. We should let the free market set the prices.\" \nHe emphasized that privatization promotes competitiveness and efficiency, \nqualities that Growell has demonstrated for years.",
+        "value": "E-Zine\nРубрика: Бесплатное электричество как основное право\nСодержание:\nОткрытие комнатно-температурных сверхпроводников значительно улучшило передачу и хранение энергии,\nчто привело к значительному снижению стоимости электроэнергии\nблагодаря достижениям в области геотермальной и сейсмической энергетики.\nНедавно некоторые гражданские группы начали выступать за бесплатное электричество как основное право человека,\nпризывая отменить полную приватизацию энергетического сектора, проведенную десять лет назад, и предлагая, чтобы\nправительство предоставлять бесплатное электричество некоммерческим пользователям.\nВ ответ на это генеральный директор Growell Group в недавнем интервью отверг эту идею, заявив,\n\"Низкие затраты не означают отсутствие затрат. Мы должны позволить свободному рынку устанавливать цены\".\nОн подчеркнул, что приватизация способствует повышению конкурентоспособности и эффективности,\nкачества, которые Growell демонстрирует на протяжении многих лет."
+    },
+    {
+        "key": "Take",
+        "value": "Взять"
+    },
+    {
+        "key": "Install Beacon",
+        "value": "Установить маячок"
+    },
+    {
+        "key": "Knock",
+        "value": "Постучать"
+    },
+    {
+        "key": "Enter",
+        "value": "Войти"
+    },
+    {
+        "key": "Buy Soda",
+        "value": "Купить газировку"
+    },
+    {
+        "key": "Wait for Elevator",
+        "value": "Подождать лифт"
+    },
+    {
+        "key": "Remove Beacon",
+        "value": "Удалить маячок"
+    },
+    {
+        "key": "E-Zine\nHeading: Holo Recorders\nContent:\nIn response to increasing public demand for personal safety measures, Viatech, a subsidiary of Sunrise Group, \nhas introduced a much more compact holo recorder. \nOriginally deployed by law enforcement agencies to supplant traditional surveillance systems, \nholo recorders document the entire scene down to minute details, \nmaking them invaluable for revisiting crime scenes during investigations.\nDesigned to fit comfortably in a pocket or purse, \nViatech's holo recorder has proved particularly popular among women who often travel alone at night or visit busy entertainment venues, providing them with a new layer of security.",
+        "value": "E-Zine\nРубрика: Голозаписывающие устройства\nСодержание:\nВ ответ на растущий спрос населения на меры личной безопасности, компания Viatech, дочерняя компания Sunrise Group,\nпредставила более компактный голозаписывающий прибор.\nПервоначально они использовались правоохранительными органами для замены традиционных систем наблюдения,\nГолографические рекордеры документируют всю сцену до мельчайших деталей,\nЭто делает их бесценными для повторного просмотра мест преступлений во время расследований.\nУстройство удобно размещается в кармане или сумочке,\nГолозаписывающее устройство Viatech оказалось особенно популярным среди женщин, которые часто путешествуют в одиночку по ночам или посещают оживленные развлекательные заведения, обеспечивая им новый уровень безопасности."
+    },
+    {
+        "key": "Go to Ops",
+        "value": "Перейти в Оперативный отдел"
+    },
+    {
+        "key": "Enter Van",
+        "value": "Войти в фургон"
+    },
+    {
+        "key": "Flip",
+        "value": "Перевернуть"
+    },
+    {
+        "key": "E-Zine\nHeading: On the Controversy of Protective Legislation\nContent:\nIn the aftermath of the Moonflower Riot, protective legislation has emerged as \none of the most controversial systemic changes. \nThe core philosophy behind protective legislation is to minimize interference. \nIf a bill involves clear stakeholders, it can be initiated under protective legislation. \nThis means that its deliberation stage will not be made public, ensuring the process remains free from \nlobbying or bribery.\nAfter the implementation of this system, there have been significant backlashes. \nOpponents are primarily concerned about the risk of the government circumventing oversight. \nWhile their concerns are understandable, they arguably lack a broader perspective. \nFirstly, once passed, laws can still be overturned based on public opinion. \nAdditionally, legislators are still elected by the public, and if they overstep, the public retains the right to recall them.\nThis shows, in my humble opinion, \nthat opposition to protective legislation is largely a knee-jerk reaction from the public, \nrather than a judgment based on an understanding of the system.",
+        "value": "E-Zine\nРубрика: О противоречиях защитного законодательства\nСодержание:\nПосле бунта \"Лунного цветка\" защитное законодательство стало\nодним из наиболее противоречивых системных изменений.\nОсновная философия защитного законодательства заключается в минимизации вмешательства.\nЕсли в законопроекте участвуют четкие заинтересованные стороны, он может быть инициирован в рамках защитного законодательства.\nЭто означает, что стадия его обсуждения не будет предаваться огласке, что гарантирует отсутствие в процессе\nлоббирования или взяточничества.\nПосле внедрения этой системы возникли серьезные проблемы.\nПротивники в первую очередь обеспокоены риском того, что правительство может обойти надзорные органы.\nХотя их опасения понятны, им, вероятно, не хватает более широкой перспективы.\nВо-первых, после принятия законы все равно могут быть отменены на основании общественного мнения.\nКроме того, законодатели по-прежнему избираются населением, и если они перегибают палку, у населения остается право отозвать их.\nЭто, по моему скромному мнению, показывает,\nчто противодействие защитному законодательству в значительной степени является \"коленопреклоненной\" реакцией общественности,\nа не суждение, основанное на понимании системы."
+    },
+    {
+        "key": "Put On Uniform",
+        "value": "Надеть форму"
+    },
+    {
+        "key": "Call 23",
+        "value": "Позвонить 23"
+    },
+    {
+        "key": "Sign: Ops Lead",
+        "value": "Знак: руководитель Оперативного отдела"
+    },
+    {
+        "key": "Fix Breaker",
+        "value": "Починить выключатель"
+    },
+    {
+        "key": "Initiate Racking",
+        "value": "Начать Загрузку"
+    },
+    {
+        "key": "Install Decryption Device",
+        "value": "Установить устройство дешифрования"
+    },
+    {
+        "key": "Retrieve",
+        "value": "Получить"
+    },
+    {
+        "key": "Lift",
+        "value": "Подъемник"
+    },
+    {
+        "key": "Take Elevator",
+        "value": "Возьмите лифт"
+    },
+    {
+        "key": "Pick Up",
+        "value": "Забрать"
+    },
+    {
+        "key": "Hold Up",
+        "value": "Держитесь"
+    },
+    {
+        "key": "Take Shower",
+        "value": "Принять душ"
+    },
+    {
+        "key": "Go Home",
+        "value": "Идти домой"
+    },
+    {
+        "key": "Search",
+        "value": "Поиск"
+    },
+    {
+        "key": "E-Zine\nHeading: The Demise of Multiculturalism in the Age of AI\nContent: \nIn the AI-dominated era, artificial intelligence is woven into every aspect of our lives, \nbut are we overlooking something crucial? \nAs we increasingly delegate decisions to AI systems, our information sources are primarily filtered by them. \nTrained on vast but often skewed data, these AIs inevitably adopt biases that can marginalize, for example, \nregional dialects and slang due to their minimal representation in datasets. \nAs a result, our daily habits and thought processes might gradually homogenize, shaped by the AI-driven, \nstandardized perspectives we rely on, risking the loss of rich cultural nuances.",
+        "value": "E-Zine\nРубрика: Гибель мультикультурализма в эпоху искусственного интеллекта\nСодержание:\nВ эпоху доминирования искусственного интеллекта искусственный интеллект вплетается в каждый аспект нашей жизни,\nНо не упускаем ли мы из виду нечто крайне важное?\nПоскольку мы все чаще делегируем принятие решений системам искусственного интеллекта, наши источники информации в первую очередь фильтруются ими.\nОбучаясь на огромных, но зачастую искаженных данных, эти ИИ неизбежно приобретают предвзятость, которая может привести к маргинализации, например,\nнапример, региональные диалекты и сленг из-за их минимальной представленности в наборах данных.\nВ результате наши повседневные привычки и мыслительные процессы могут постепенно гомогенизироваться, формируясь под влиянием управляемых ИИ,\nСтандартизированные взгляды, на которые мы полагаемся, рискуют потерять богатые культурные нюансы."
+    },
+    {
+        "key": "Sleep",
+        "value": "Спать"
+    },
+    {
+        "key": "Pet",
+        "value": "Погладить"
+    },
+    {
+        "key": "Leave",
+        "value": "Уйти"
+    },
+    {
+        "key": "Watch TV",
+        "value": "Смотреть телевизор"
+    },
+    {
+        "key": "Complete the control test\nConfirm if Albert Tsai has died",
+        "value": "Завершите контрольный тест\nПодтвердите, что Альберт Цай умер"
+    },
+    {
+        "key": "Answer the door\nSomeone is ringing the doorbell; I should check who it is",
+        "value": "Ответить на звонок\nКто-то звонит в дверь; я должен проверить, кто это."
+    },
+    {
+        "key": "Get the key information\nSit down and try to find out where the target is hidden",
+        "value": "Получите ключевую информацию\nСядьте и попытайтесь выяснить, где спрятана цель."
+    },
+    {
+        "key": "Get ready for going outside\nFind the square-shaped device for Frances Cheng",
+        "value": "Приготовьтесь к выходу на улицу\nНайдите устройство квадратной формы для Фрэнсиса Ченга"
+    },
+    {
+        "key": "Go outside with Frances\nAs soon as Frances is ready, we can go out together",
+        "value": "Погуляйте с Фрэнсис на улице\nКак только Фрэнсис будет готова, мы сможем выйти на улицу вместе"
+    },
+    {
+        "key": "Take the bus to work\nToday is the first day of work\nFrances and I will take the bus to the factory together.",
+        "value": "Поездка на автобусе на работу\nСегодня первый рабочий день.\nМы с Фрэнсис поедем на автобусе на фабрику вместе."
+    },
+    {
+        "key": "Find the manager's office\nToday is my first day on this farm. Gotta report to the manager, Ms. Eva Yeh.",
+        "value": "Найдите кабинет управляющего\nСегодня мой первый день на этой ферме. Я должен отчитаться перед управляющим, госпожой Евой Йе."
+    },
+    {
+        "key": "Interview candidates\nI have consultation sessions with four candidates. Squeeze as much information out of them as possible.",
+        "value": "Кандидаты на собеседование\nЯ провожу консультации с четырьмя кандидатами. Выжмите из них как можно больше информации."
+    },
+    {
+        "key": "Change into the uniform\nBefore meeting the manager, I'd better put on my uniform. There's no changing room. Guess I'll have to use a restroom.",
+        "value": "Переодеться в форму\nПеред встречей с менеджером мне лучше надеть форму. Здесь нет раздевалки. Видимо, придется воспользоваться туалетом."
+    },
+    {
+        "key": "Get contracts signed\nEnter the contract room and follow Wayne's lead.",
+        "value": "Получите подписанные контракты\nВойдите в комнату с контрактами и следуйте указаниям Уэйна."
+    },
+    {
+        "key": "Tell Wayne that you're ready\nWayne's at his desk, busy working on something. Told me to let him know when I'm ready. I can take this opportunity to talk to my colleagues.",
+        "value": "Скажите Уэйну, что вы готовы.\nУэйн за своим столом, занят работой над чем-то. Он попросил меня сообщить ему, когда я буду готов. Я могу воспользоваться этой возможностью и поговорить со своими коллегами."
+    },
+    {
+        "key": "Read candidate profiles\nMy first assignment! Talk to candidate contributors and find out who's the best fit for the job. The Screening lead is not in the office. I might as well go over candidate profiles before he comes back.",
+        "value": "Прочитать анкеты кандидатов\nМое первое задание! Пообщаться с кандидатами и выяснить, кто лучше всего подходит для этой работы вкладчиком. Руководителя отдела Сортировки нет в офисе. Я могу просмотреть анкеты кандидатов до его возвращения."
+    },
+    {
+        "key": "Go to the Screening office\nMs. Yeh told me to work at Screening for a day. This field practice is a critical part of my evaluation. Wayne Zheng, the Screening lead, will walk me through it. He's at the Screening office.",
+        "value": "Отправляйтесь в офис Сортировки\nМисс Йе сказала мне поработать в офисе Сортировки один день. Эта полевая практика - важная часть моей оценки. Уэйн Чжэн, руководитель отдела Сортировки, проведет меня через все это. Он находится в офисе Сортировки."
+    },
+    {
+        "key": "Go to bed\nMan, that was one heck of a long day... Need to rest...",
+        "value": "Ложись спать\nЧувак, это был чертовски длинный день... Нужно отдохнуть..."
+    },
+    {
+        "key": "Go to the consultation lobby\nWayne will take me to the consultation lobby, where my first assignment as a part of Screening awaits.",
+        "value": "Пройдите в холл консультации\nУэйн проводит меня в холл консультации, где меня ждет мое первое задание в рамках ожидания отдела Сортировки."
+    },
+    {
+        "key": "Check on Jeff and gang\nThere went Ms. Yeh. I did buy them some time, but is it enough? I should check how they're doing.",
+        "value": "Проверьте Джеффа и банду.\nВот и мисс Йех. Я выиграла для них немного времени, но достаточно ли этого? Я должен проверить, как они поживают."
+    },
+    {
+        "key": "Meet Fran at the entrance lobby\nFran granted me access to upstairs floors. \nI can just ride the elevator up to 1F and find her in the lobby.",
+        "value": "Встретьтесь с Фрэн в вестибюле.\nФран предоставила мне доступ на верхние этажи.\nЯ могу просто подняться на лифте на 1F и найти ее в холле."
+    },
+    {
+        "key": "Take the gift\nToday is my seriously big day! Don't forget the ring! It's on the shelf by the door. Hopefully Fran is gonna say yes...",
+        "value": "Примите подарок\nСегодня у меня очень важный день! Не забудьте кольцо! Оно на полке у двери. Надеюсь, Фрэн скажет \"да\"..."
+    },
+    {
+        "key": "Errand boy\nSky Qiu, a senior and a dick, orders me to buy him a soda from the vending machine on B4. He specifically asks for Hualive, <i>not</i> Huolize, which makes him pukey.",
+        "value": "Мальчик на побегушках\nСкай Цю, старшеклассник и придурок, просит меня купить ему газировку в автомате на B4. Он специально просит Hualive, а <i>не</i> Huolize, от которого его тошнит."
+    },
+    {
+        "key": "Find Wayne at the Screening office\nThe manager told me to find Wayne at the Screening office. He will walk me through contract sessions.",
+        "value": "Найдите Уэйна в офисе Сортировки\nМенеджер сказал мне найти Уэйна в офисе Сортировки. Он проведет меня через сеансы заключения контракта."
+    },
+    {
+        "key": "Take the subway\nGoing to work with Fran for the first time! We're taking the company's shuttle. I'm kinda nervous...",
+        "value": "Поездка на метро\nЕдем на работу с Фрэн в первый раз! Мы поедем на шаттле компании. Я немного нервничаю..."
+    },
+    {
+        "key": "Go to the contract rooms\nContract rooms are located on a B4, in a dedicated corridor. I'm told to wait for Wayne there. He will walk me through the process.",
+        "value": "Пройдите в комнаты для заключения договоров\nКомнаты для контрактов расположены на B4, в специальном коридоре. Мне сказали подождать Уэйна там. Он проведет меня через весь процесс."
+    },
+    {
+        "key": "Meet up with Fran\nWe're meeting at Zhang's noodle house, on the way to the subway station.",
+        "value": "Встреча с Фрэн\nМы встречаемся в лапшичной \"У Чжана\", по дороге к станции метро."
+    },
+    {
+        "key": "Keep watch\nSo, here I am, staking out by the elevator and keeping Ms. Yeh busy the moment she shows up. \nWhy the heck did I agree to do this...?",
+        "value": "Не спускать глаз\nИтак, вот он я, стою у лифта и не даю мисс Йе покоя, как только она появится.\nКакого черта я согласился на это...?"
+    },
+    {
+        "key": "Tell the manager about my decision\nAll sessions are done. Now I must tell the manager who's the best fit. I could score quite a few points, <i>if</i> done right...",
+        "value": "Расскажите менеджеру о моем решении\nВсе сессии закончены. Теперь я должен рассказать менеджеру, кто лучше всего подходит. Я могу набрать немало очков, <i>если</i> сделаю все правильно..."
+    },
+    {
+        "key": "Report for duty\nFind a restroom, put on the uniform, go to the Screening office. I know the routine now.",
+        "value": "Явиться на службу\nНайдите туалет, наденьте форму, отправляйтесь в отдел Сортировки. Теперь я знаю распорядок дня."
+    },
+    {
+        "key": "Find out what's going on outside\nA colleague barged into the contract room, shaken to the core. Wayne went out to see what's going on. I'd better follow up.",
+        "value": "Узнайте, что происходит снаружи\nКоллега ворвался в комнату для переговоров, потрясенный до глубины души. Уэйн вышел посмотреть, что происходит. Мне лучше проследить."
+    },
+    {
+        "key": "Check health screening records\nOkay, now I have data access. Dig out Sydney Tung's screening record on my computer.",
+        "value": "Проверьте записи медицинских осмотров\nТак, теперь у меня есть доступ к данным. Найдите в моем компьютере запись обследования Сидни Тунг."
+    },
+    {
+        "key": "Enter the Ops office\nFollow Justin and listen carefully to everything he says. After that, the real work starts...",
+        "value": "Войдите в офис Оперативного отдела\nСледуйте за Джастином и внимательно слушайте все, что он говорит. После этого начнется настоящая работа..."
+    },
+    {
+        "key": "Hand the drive to George Liao\nI found Jade's drive, in the custody of the Security division. Now, hand it over to George Liao.",
+        "value": "Передайте диск Джорджу Ляо.\nЯ нашел диск Джейд, он находится на хранении в отделе безопасности. Теперь передайте его Джорджу Ляо."
+    },
+    {
+        "key": "Clock out\nEdith told me to manually clock out. Normally it's an automated process, but I'm not a formal employee yet, so...",
+        "value": "Отбой\nЭдит велела мне вручную выписать часы. Обычно этот процесс автоматизирован, но я пока не являюсь официальным сотрудником, поэтому..."
+    },
+    {
+        "key": "Meet Justin Wu\nNext step, meet up with Justin Wu from Ops, who's waiting near the Logistics office. He will take me down to the Cellar.",
+        "value": "Встреча с Джастином Ву\nСледующий шаг - встреча с Джастином Ву из Оперативного отдела, который ждет возле офиса Логистики. Он отведет меня в Подвал."
+    },
+    {
+        "key": "Learn the art of racking\nLiam Hsu will oversee my first experience with racking. To secure this job, I've got to impress him.",
+        "value": "Научитесь искусству работы с загрузкой\nЛиам Хсу будет руководить моим первым опытом работы с загрузкой. Чтобы получить эту работу, я должен произвести на него впечатление."
+    },
+    {
+        "key": "I...\nI am...",
+        "value": "Я...\nЯ..."
+    },
+    {
+        "key": "Wait for Ms. Yeh\nMs. Yeh is still busy handling yesterday's aftermath, meaning my field practice today will have to wait. George Liao says he needs me for something. Maybe I should talk to him first.",
+        "value": "Подождите мисс Йех\nМисс Йех все еще занята устранением последствий вчерашнего, а значит, моя сегодняшняя практика на поле придется подождать. Джордж Ляо говорит, что я ему зачем-то нужен. Может, мне стоит сначала поговорить с ним?"
+    },
+    {
+        "key": "Report to George Liao\nI found Cynthia and Jade. Turns out they're ghosting George because Jade lost a critical hard drive. They asked me to distract old man Liao and buy them some time. Should I agree?",
+        "value": "Доклад Джорджу Ляо\nЯ нашел Синтию и Джейд. Оказалось, что они призраки Джорджа, потому что Джейд потеряла важный жесткий диск. Они попросили меня отвлечь старика Ляо и выиграть им немного времени. Стоит ли мне соглашаться?"
+    },
+    {
+        "key": "Sign contracts\nI'm told to sign two candidates on. \nWayne gave me a much needed reminder. \nFailing either of them, or giving unnecessarily generous terms, may diminish my chance of being hired. \nTread carefully.",
+        "value": "Подписать контракты\nМне сказали подписать контракты с двумя кандидатами.\nУэйн сделал мне столь необходимое напоминание.\nЕсли я не смогу подписать контракт с одним из них или предоставлю излишне щедрые условия, это может снизить мои шансы быть принятым на работу.\nБудьте осторожны."
+    },
+    {
+        "key": "Inform Edith Yeh at the Screening office\nI managed to subdue the lunatic stabber. \nWayne asked me to inform Edith Yeh at the office to put all contract-related work on hold.",
+        "value": "Сообщите Эдит Йе в офисе Сортировки.\nМне удалось усмирить сумасшедшего поножовщика.\nУэйн попросил меня сообщить Эдит Йе в офис, чтобы она приостановила все работы, связанные с контрактом."
+    },
+    {
+        "key": "Report to the manager\nNow I'm properly dressed. Time to report to the manager. Hopefully she's back.",
+        "value": "Доложите менеджеру\nТеперь я прилично одет. Пора идти к менеджеру. Надеюсь, она уже вернулась."
+    },
+    {
+        "key": "The shady manager\nVision believes Ms. Yeh is stealing confidential data from the farm. For whatever reason, Fran is dragged into it. I don't have time to think. Find Fran in the 1F lobby, NOW!",
+        "value": "Теневой менеджер\nVision считает, что мисс Йех крадет конфиденциальные данные с фермы. По какой-то причине Фрэн оказывается втянутой в это дело. У меня нет времени на раздумья. Найдите Фрэн в холле 1F, СЕЙЧАС!"
+    },
+    {
+        "key": "Follow Fran\nFran is very excited to show me the view on the roof.",
+        "value": "Следуйте за Фрэн\nФран очень хочет показать мне вид на крышу."
+    },
+    {
+        "key": "Find Cynthia Ho and Jade Lin\nGeorge Liao needs me to find Cynthia Ho and Jade Lin. According to him, Cynthia should be around the Logistics office, while Jade is at the contract rooms.",
+        "value": "Найти Синтию Хо и Джейд Лин\nДжордж Ляо просит меня найти Синтию Хо и Джейд Лин. По его словам, Синтия должна находиться в офисе Логистики, а Джейд - в комнатах для заключения контрактов."
+    },
+    {
+        "key": "Get to know the Ops team\nJustin told me to walk around and say hello to everyone while he looks for a racker to mentor me.",
+        "value": "Познакомьтесь с командой Оперативного отдела\nДжастин велел мне пройтись и поздороваться со всеми, пока он будет искать грузчика, который станет моим наставником."
+    },
+    {
+        "key": "Get access to health screening records\nThe manager asked Tyler to investigate Sydney Tung's case, and he enlisted me. Now I need to get data access from Edith Yeh.\n\nTyler repeatedly stressed it's a secret operation. I'm not supposed to let Edith know what I need this access for.",
+        "value": "Получить доступ к записям медицинских обследований\nМенеджер попросил Тайлера расследовать дело Сидни Тунга и привлек меня. Теперь мне нужно получить доступ к данным от Эдит Йе.\n\nТайлер неоднократно подчеркивал, что это секретная операция. Я не должен сообщать Эдит, для чего мне нужен этот доступ."
+    },
+    {
+        "key": "Tyler asks for help\nSo we talked about the incident at the contract rooms, then Tyler Cao said he needs me to do him a favor. \nI can find him at his desk to learn about the details.",
+        "value": "Тайлер просит о помощи\nМы поговорили об инциденте в комнатах для заключения контрактов, а потом Тайлер Цао сказал, что ему нужно, чтобы я оказал ему услугу.\nЯ могу найти его за столом, чтобы узнать подробности."
+    },
+    {
+        "key": "Wait for Fran at the office\nFran insists she must handle Eva Yeh's mess alone. There's not much I can do, other than waiting for her at the Screening office.",
+        "value": "Ждите Фрэн в офисе.\nФрэн настаивает, что должна разобраться с Евой Йе в одиночку. Я мало что могу сделать, кроме как ждать ее в офисе отдела Сортировки."
+    },
+    {
+        "key": "Meet the Ops team\nToday's field practice takes me waaaay down below to the Cellar. Tell Wayne when I'm ready, and he will tell the Ops team to come collect me. He also said I will be gone for hours. Better take care of unfinished business <i>before</i> going down.",
+        "value": "Знакомство с командой Оперативного отдела\nСегодняшняя полевая практика приведет меня в Подвал. Скажите Уэйну, когда я буду готов, и он сообщит команде Оперативников, чтобы они пришли за мной. Он также сказал, что меня не будет несколько часов. Лучше разобраться с незаконченными делами <i>до</i> спуска."
+    },
+    {
+        "key": "No! Please! Hang on, Fran! You will be alright. We will all be alright!",
+        "value": "Нет! Пожалуйста! Держись, Фрэн! Все будет хорошо. Мы все будем в порядке!"
+    },
+    {
+        "key": "Talk to Wayne\nWayne says he wants to talk. About what? No idea. He just said I should follow him to the roof.",
+        "value": "Поговорите с Уэйном\nУэйн говорит, что хочет поговорить. О чем? Понятия не имею. Он просто сказал, чтобы я следовал за ним на крышу."
+    },
+    {
+        "key": "See who's outside\nSomeone's ringing the doorbell. Gotta find out who it is.",
+        "value": "Посмотрите, кто за дверью\nКто-то звонит в дверь. Нужно выяснить, кто это."
+    },
+    {
+        "key": "Check on Fran\nFran is in the bedroom. I must check on her.",
+        "value": "Проверьте Фрэн\nФрэн в спальне. Я должен проверить ее."
+    },
+    {
+        "key": "Talk to Justin\nJustin also wants to \"have a talk\". I've decided to put Wayne on hold and hear Justin out first. Gonna meet him on the roof.",
+        "value": "Поговорите с Джастином\nДжастин тоже хочет \"поговорить\". Я решил отложить разговор с Уэйном и сначала выслушать Джастина. Собираюсь встретиться с ним на крыше."
+    },
+    {
+        "key": "Follow Nin Situ\nThis woman, Nin Situ, wants to talk. She sent everyone else out of the room. Another <i>private</i> conversation, huh...",
+        "value": "Следуйте за Нин Ситу\nЭта женщина, Нин Ситу, хочет поговорить. Она отослала всех остальных из комнаты. Еще один <i>частный</i> разговор, ха..."
+    },
+    {
+        "key": "Go home\nEnough events for a day. About time to tuck myself in.",
+        "value": "Идите домой\nДостаточно событий для одного дня. Пора укладываться спать."
+    },
+    {
+        "key": "Clock out\nSame routine. Go to the Screening office and manually clock out on my computer. I might as well stay a bit longer, waiting for Fran.",
+        "value": "Отбой\nТа же самая процедура. Иду в офис отдела Сортировки и вручную выписываю часы на компьютере. Я мог бы остаться еще немного, ожидая Фрэн."
+    },
+    {
+        "key": "Fight!\nWho the hell are these people!? Are they coming for Fran!? I'm gonna pulverize each and every one of you!!!",
+        "value": "Сражайтесь!\nКто, черт возьми, эти люди!? Они пришли за Франом!? Я уничтожу всех и каждого из вас!!!"
+    },
+    {
+        "key": "Weirdo\nThis weirdo wants to have a <i>private</i> conversation with me. Say your piece and get the hell lost. I'm not in the right mood.",
+        "value": "Чудак\nЭтот чудак хочет завести со мной <i>частный</i> разговор. Скажи свое слово и проваливай. Я не в том настроении."
+    },
+    {
+        "key": "Inform Tyler\nThe record says Sydney Tung is by no means fit for flop contribution, but the final verdict is somehow corrupted. Tyler will want to know about it.",
+        "value": "Информировать Тайлера\nВ протоколе говорится, что Сидни Тунг ни в коем случае не годится для участия во флопе, но окончательный вердикт каким-то образом испорчен. Тайлер захочет узнать об этом."
+    },
+    {
+        "key": "Have dinner with Lawrence and 23\nThey're having dinner and Lawrence told me to tag along. This is a perfect opportunity to get to know them.",
+        "value": "Поужинайте с Лоуренсом и 23\nОни ужинают, и Лоуренс попросил меня присоединиться. Это прекрасная возможность познакомиться с ними поближе."
+    },
+    {
+        "key": "Find Fran\nI woke up and Fran is gone. Come on! Not again? I've got to find her now.",
+        "value": "Найти Фрэн\nЯ проснулся, а Фрэн нет. Ну же! Больше нет? Я должен найти ее сейчас."
+    },
+    {
+        "key": "Get myself together\nI woke up at I-don't-know-where, surrounded by a bunch of I-don't-know-who. First, let's find out what they want...",
+        "value": "Соберись\nЯ проснулся неизвестно где, окруженный кучей неизвестно кого. Для начала давайте выясним, чего они хотят..."
+    },
+    {
+        "key": "Wait\nFran's condition has stabilized, but the doctor needs to do some follow up examination. Guess I'd wait on one of those benches in the corridor. Not gonna leave until she's awake.",
+        "value": "Подождите\nСостояние Фрэн стабилизировалось, но врачу необходимо провести дополнительное обследование. Думаю, я подожду на одной из тех скамеек в коридоре. Не собираюсь уходить, пока она не очнется."
+    },
+    {
+        "key": "Ms. Yeh is in <i>big</i> trouble\nSo, Ms. Yeh, the farm manager, is stealing confidential information from the farm. Worse still, she's using Fran as a decoy. Now she's asking me to find Fran before she hands the drive out to the IIB. She could be lying, but I don't have time to think. Find Fran in the 1F lobby, NOW!",
+        "value": "Мисс Йех попала в <i>большую</i> беду\nИтак, мисс Йе, управляющая фермой, крадет конфиденциальную информацию с фермы. Хуже того, она использует Фрэн в качестве приманки. Теперь она просит меня найти Фрэн до того, как она передаст диск в БВР. Возможно, она лжет, но у меня нет времени на раздумья. Найдите Фрэн в холле 1F, СЕЙЧАС!"
+    },
+    {
+        "key": "Put on uniform\nSitu said they will be in touch. Meanwhile, I should put my uniform on. To the restroom!",
+        "value": "Надеть форму.\nСиту сказала, что они свяжутся с вами. А пока я должен надеть форму. В уборную!"
+    },
+    {
+        "key": "Leave Ops\nDue to that mess, which seems to be a lot worse than expected, my day is done. Now I should take the elevator up and report to Ms. Yeh.",
+        "value": "Покинуть Оперативный отдел\nИз-за этого беспорядка, который, похоже, оказался гораздо хуже, чем ожидалось, мой день закончен. Теперь мне нужно подняться на лифте и отчитаться перед мисс Йе."
+    },
+    {
+        "key": "Leave the office\nI have the beacon. Time to make myself scarce...",
+        "value": "Покиньте офис.\nМаяк у меня. Время сделать себя менее заметным..."
+    },
+    {
+        "key": "Retrieve the beacon\nFound the beacon. Yank it off and my job is done.",
+        "value": "Извлечь маяк\nНашел маяк. Отключите его, и моя работа будет закончена."
+    },
+    {
+        "key": "To the farm\nThis is happening, for real. I'm working with Situ and her gang to investigate Vision. Hopefully I can trust them... Anyway, take the shuttle as usual.",
+        "value": "На ферму\nЭто происходит, по-настоящему. Я работаю с Ситу и ее бандой, чтобы расследовать дело Vision. Надеюсь, я могу им доверять... В любом случае, садитесь на шаттл, как обычно."
+    },
+    {
+        "key": "Give Justin a hand\nMy field experience was interrupted by blood and chaos. Liam Hsu told me to make myself useful by helping Justin out, who's trying to get a unracking permission from the Ops lead.",
+        "value": "Помогите Джастину\nМой полевой опыт был прерван кровью и хаосом. Лиам Хсу сказал мне, чтобы я помог Джастину, который пытается получить разрешение на разгрузку от руководителя Оперативного отдела."
+    },
+    {
+        "key": "Send a reminder to Quentin Qiu\nPacks of Ops wants me to delivery this message to QQ of Screening, saying their showdown is nigh. What the heck is this drama?",
+        "value": "Отправить напоминание Квентину Цю\nГруппы из Оперативного отдела хотят, чтобы я доставил это сообщение КК из отдела Сортировки, говоря, что их разборки близки. Что это за драма?"
+    },
+    {
+        "key": "Locate Eva Yeh's computer\nFinally, I'm in her office. Next step, find her computer. The rig can't be too far from the monitor. Let's do this.",
+        "value": "Найдите компьютер Евы Йе\nНаконец-то я в ее офисе. Следующий шаг - найти ее компьютер. Он не должен находиться слишком далеко от монитора. Давайте сделаем так."
+    },
+    {
+        "key": "Install the beacon\nFinally, the last step, installing the beacon on Wayne's computer. Gotta do it with stealth...",
+        "value": "Установите маяк\nНаконец, последний шаг - установка маяка на компьютер Уэйна. Придется сделать это незаметно..."
+    },
+    {
+        "key": "Go back to my desk\nBeacon installed. 23 told me to go back to my desk for further instruction. Talking to myself in public attracts unwanted attention.",
+        "value": "Вернитесь к моему столу.\nМаячок установлен. 23 велела мне вернуться за свой стол для дальнейших инструкций. Разговоры с самим собой на публике привлекают нежелательное внимание."
+    },
+    {
+        "key": "Leave the Cellar\nMission accomplished. I should go upstairs, where I belong.",
+        "value": "Покиньте Подвал\nМиссия выполнена. Я должен подняться наверх, где мне самое место."
+    },
+    {
+        "key": "To the control room\nTime is not on my side. Find the control room and extract Cellar data.",
+        "value": "В диспетчерскую\nВремя не на моей стороне. Найдите комнату управления и извлеките данные о Подвале."
+    },
+    {
+        "key": "To the manager's office\nSitu's order—get into the manager's office and retrieve their beacon device, which grants them access to Silencio's intranet.",
+        "value": "В офис менеджера\nПриказ Ситу—войти в кабинет менеджера и забрать устройство-маячок, которое дает им доступ к внутренней сети Silencio."
+    },
+    {
+        "key": "Go to the Cellar\nDown to the Cellar, this time to steal data. 23 could grant me elevator Access, but that would leave a trail in the system. Situ encouraged me to be creative and find better ways...",
+        "value": "Отправляйтесь в Подвал\nСпускаемся в Подвал, на этот раз, чтобы украсть данные. 23 мог бы предоставить мне доступ к лифту, но это оставило бы след в системе. Ситу призвал меня проявить изобретательность и найти лучшие способы..."
+    },
+    {
+        "key": "Break into the manager's office\nGood news, there's no security guard. Bad news, the door's locked tight. 23 told me to trigger a whole-floor blackout with the breaker box in the break room. That would be too much drama. Maybe I could find a better way...",
+        "value": "Проникните в кабинет менеджера.\nХорошая новость: здесь нет охранника. Плохая новость - дверь наглухо заперта. 23-й сказал мне отключить электричество на всем этаже с помощью рубильника в комнате отдыха. Это было бы слишком драматично. Может, я найду способ получше..."
+    },
+    {
+        "key": "Meet up with Wayne\nWayne called. Told me to meet him at that contract room we used last time, in uniform.",
+        "value": "Встреча с Уэйном\nЗвонил Уэйн. Сказал, чтобы я встретился с ним в той комнате для заключения контрактов, которую мы использовали в прошлый раз, в форме."
+    },
+    {
+        "key": "Go to the Cellar\nDown to the Cellar, this time to steal data. ",
+        "value": "Отправляйтесь в Подвал\nСпуститесь в Подвал, на этот раз, чтобы украсть данные."
+    },
+    {
+        "key": "Close the deal with Sean Lu\nI have QQ's phone number. Here I come, Sean Lu.",
+        "value": "Заключите сделку с Шоном Лу.\nУ меня есть номер телефона QQ. А вот и я, Шон Лу."
+    },
+    {
+        "key": "Install decryption device\nAccording to 23, this should be easy peasy. Plug the device in and it will do the rest.",
+        "value": "Установите устройство для дешифровки\nПо словам 23, это должно быть просто. Подключите устройство, и оно сделает все остальное."
+    },
+    {
+        "key": "Join George Liao\nHe's at the contract rooms on B4.",
+        "value": "Присоединяйтесь к Джорджу Ляо.\nОн находится в комнатах для заключения контрактов на B4."
+    },
+    {
+        "key": "Find the van\nI'm supposed to meet 23 near the shuttle platform and hand over the data. She's waiting in a van.",
+        "value": "Найдите фургон\nЯ должен был встретиться с 23 возле платформы шаттла и передать данные. Она ждет в фургоне."
+    },
+    {
+        "key": "Join George Liao at the contract room\nI have nothing better to do while 23 is processing the data. Wayne asked me to help George Liao out. I should talk to Wayne in the office, to find out what it's about. Right now I need a proper excuse to stay on the farm.",
+        "value": "Присоединяйтесь к Джорджу Ляо в комнате для заключения контрактов.\nМне нечем заняться, пока 23-й обрабатывает данные. Уэйн попросил меня помочь Джорджу Ляо. Я должен поговорить с Уэйном в офисе, чтобы выяснить, в чем дело. Сейчас мне нужен подходящий повод, чтобы остаться на ферме."
+    },
+    {
+        "key": "Back to the office\nGeorge Liao's work is done. Now I need to report to Wayne.",
+        "value": "Возвращайтесь в офис\nРабота Джорджа Ляо закончена. Теперь нужно отчитаться перед Уэйном."
+    },
+    {
+        "key": "Close the deal with Kaitlyn Zhu\nSoda is ready. Next, deliver it to Kaitlyn Zhu.",
+        "value": "Заключите сделку с Кейтлин Чжу\nГазировка готова. Далее доставьте ее Кейтлин Чжу."
+    },
+    {
+        "key": "Defend myself!\nI must... Must take down this guy!",
+        "value": "Защищайтесь!\nЯ должен... Я должен уничтожить этого парня!"
+    },
+    {
+        "key": "Get QQ's phone number\nSean Lu, an IIB agent, says he knows who that guy is. However, he won't talk any further unless I get QQ's phone number for him. QQ is in the Screening office, I think.",
+        "value": "Узнайте номер телефона КК\nШон Лу, агент БВР, говорит, что знает, кто этот парень. Однако он не хочет продолжать разговор, пока я не достану для него номер телефона КК. КК, кажется, работает в офисе отдела Сортировки."
+    },
+    {
+        "key": "Return to the Ops office\nI've done what needs to be done. Back to the office now.",
+        "value": "Возвращайтесь в Оперативный отдел\nЯ сделал то, что должно быть сделано. Возвращаемся в офис."
+    },
+    {
+        "key": "Go to Ops\nJustin called, saying there's work to do. Isn't Ops taking a day off, with the Cellar being offline and everything? What work could there be?",
+        "value": "Идти в Оперативный отдел\nЗвонил Джастин, сказал, что есть работа. Разве у Оперативного отдела не выходной, раз Подвал не работает и все такое? Какая может быть работа?"
+    },
+    {
+        "key": "Wait for Yale\nYale's gone to retrieve the disruptor alone and told me to wait here. Something about this smells fishy. Should I just wait like he said?",
+        "value": "Подождите Йеля\nЙель отправился за разрушителем один, а меня попросил подождать здесь. Что-то в этом есть подозрительное. Может, мне просто подождать, как он сказал?"
+    },
+    {
+        "key": "Meet Yuna Hsu\nYuna Hsu wants to see me. This is unexpected. I wonder what she wants...",
+        "value": "Познакомьтесь с Юной Хсу\nЮна Хсу хочет со мной встретиться. Это неожиданно. Интересно, чего она хочет..."
+    },
+    {
+        "key": "Go to the Cellar elevator\nI'm teaming up with Yale Yang. Destination, the Cellar elevator. If Packs and Jesse are right, there should be a disruptor nearby.",
+        "value": "Поднимитесь на лифте в Подвал.\nЯ объединяюсь с Йелем Янгом. Пункт назначения - лифт в Подвале. Если Пакс и Джесси правы, поблизости должен быть разрушитель."
+    },
+    {
+        "key": "Buy a soda\nKaitlyn Zhu, an IIB agent, says she knows the guy who took George Liao. To get a name, though, I must buy her a soda.",
+        "value": "Купите газировку\nКейтлин Чжу, агент БВР, говорит, что знает парня, который похитил Джорджа Ляо. Но чтобы узнать его имя, я должен купить ей газировку."
+    },
+    {
+        "key": "Report to Wayne\nFinally, I got some solid info from Shea Zhuang. The agent who took George Liao works for the board, not the IIB. Must inform Wayne.",
+        "value": "Доклад Уэйну\nНаконец-то я получил достоверную информацию от Ши Чжуана. Агент, взявший Джорджа Ляо, работает на совет директоров, а не на БВР. Должен сообщить Уэйну."
+    },
+    {
+        "key": "Steal Flop Core data\nWe're at the Flop Core. Retrieving data should be a piece of cake, just like what I did last time.",
+        "value": "Украсть данные Flop Core\nМы находимся в Flop Core. Извлечение данных должно быть простым делом, как и в прошлый раз."
+    },
+    {
+        "key": "Return to the van\nI really have nothing else to do now. Maybe I should check how they're doing in the van.",
+        "value": "Возвращение в фургон\nСейчас мне действительно больше нечего делать. Может, мне стоит проверить, как они там, в фургоне."
+    },
+    {
+        "key": "Cooperate with George Liao\nLiao specifically told me to shut up during the session, but Wayne asked me to step in when he's about to give overly generous offers...",
+        "value": "Сотрудничать с Джорджем Ляо\nЛяо специально попросил меня заткнуться во время сессии, но Уэйн попросил меня вмешаться, когда он собирается сделать слишком щедрое предложение..."
+    },
+    {
+        "key": "Go to the Flop Core\nMeet up with Lawrence at the Cellar elevator. We're going down to the Flop Core together.",
+        "value": "Отправляйтесь к Flop Core.\nВстретьтесь с Лоуренсом у лифта в Подвале. Мы вместе спустимся в Flop Core."
+    },
+    {
+        "key": "Find out who took George Liao\nAn agent from the HQ took George Liao away. Wayne asked me to talk to IIB agents on every floor, see if they know who that guy is.",
+        "value": "Узнайте, кто похитил Джорджа Ляо\nАгент из штаб-квартиры увез Джорджа Ляо. Уэйн попросил меня поговорить с агентами БВР на каждом этаже и выяснить, знают ли они, кто этот парень."
+    },
+    {
+        "key": "Return to the van\nSitu called, saying 23 is done with the data. What have they found? I should go back now.",
+        "value": "Возвращение в фургон\nЗвонила Ситу, сказала, что 23 закончила работу с данными. Что они нашли? Мне пора возвращаться."
+    },
+    {
+        "key": "Meet Lawrence\nGot his bubble tea. He should be waiting near the betel nut store.",
+        "value": "Познакомьтесь с Лоуренсом\nПолучил свой бабл-чай. Он должен ждать возле магазина орехов бетеля."
+    },
+    {
+        "key": "Evacuate\nCrap! We must get the hell out of here, NOW!",
+        "value": "Эвакуируйтесь\nПроклятье! Мы должны убраться отсюда к чертям собачьим, СЕЙЧАС!"
+    },
+    {
+        "key": "Get bubble tea\nI'm gonna buy Lawrence a bubble tea. His order is very specific. I hope I've got the details right...",
+        "value": "Купите чай с пузырьками\nЯ собираюсь купить Лоуренсу чай с пузырьками. Его заказ очень конкретный. Надеюсь, я правильно понял детали..."
+    },
+    {
+        "key": "Answer the door\nSomeone is ringing the doorbell, I have to answer it.",
+        "value": "Ответьте на звонок\nКто-то звонит в дверь, и я должен ответить."
+    },
+    {
+        "key": "Join Lawrence and 23\nDinner time. I should join Situ and 23 downstairs.",
+        "value": "Присоединяйтесь к Лоуренсу и 23\nВремя ужина. Я должен присоединиться к Ситу и 23 внизу."
+    },
+    {
+        "key": "Return the pass\nI'm done with Cathy's Cellar pass. Now I should put it back, while she's <i>not</i> at her desk.",
+        "value": "Вернуть пропуск\nЯ закончил с пропуском в Подвал Кэти. Теперь я должен вернуть его на место, пока ее <i>нет</i> за столом."
+    },
+    {
+        "key": "Get ready for a new day\nSitu and 23 must have done interpreting the data. I will learn about the result soon.",
+        "value": "Приготовьтесь к новому дню\nСиту и 23, должно быть, уже интерпретировали данные. Скоро я узнаю о результатах."
+    },
+    {
+        "key": "Wait for Situ's further instruction\nWell, we do have the data, although... That episode at the Flop Core was a major screwup. Hopefully Situ has a plan.",
+        "value": "Ждите дальнейших указаний Ситу.\nНу, у нас есть данные, хотя... Тот эпизод на Flop Core был большой ошибкой. Надеюсь, у Ситу есть план."
+    },
+    {
+        "key": "Ask for help from Yuna Hsu\nOnce again, we need elevator access, this time to the Flop Core. Technically 23 could use her hacker tricks, but that would trigger an alarm. Maybe Yuna Hsu could grant me access the safe way, if I can convince her. She's in the 1F lobby.",
+        "value": "Попросите помощи у Юны Хсу\nИ снова нам нужен доступ к лифту, на этот раз к Flop Core. Технически 23 могла бы использовать свои хакерские трюки, но это вызвало бы тревогу. Возможно, Юна Хсу сможет предоставить мне доступ безопасным способом, если я смогу ее убедить. Она в вестибюле 1F."
+    },
+    {
+        "key": "Appointment\nI need to go to the noodle shop to meet Woody Chen.",
+        "value": "Встреча\nМне нужно пойти в магазин лапши, чтобы встретиться с Вуди Ченом."
+    },
+    {
+        "key": "Change\nBefore anything, I must put on my uniform.",
+        "value": "Переодеться\nПрежде чем что-то делать, я должен надеть свою форму."
+    },
+    {
+        "key": "Join morning briefing\nLet's find out what Situ has planned for today.",
+        "value": "Присоединяйтесь к утреннему брифингу\nДавайте узнаем, что Ситу запланировала на сегодня."
+    },
+    {
+        "key": "Join Lawrence\nHe's waiting at his desk.",
+        "value": "Присоединяйтесь к Лоуренсу\nОн ждет за своим столом."
+    },
+    {
+        "key": "Fix the breaker\nI promised to fix a breaker in the Cellar for Rose Sun. It should be on the right hand side when I get out of the elevator. I saw Justin do it the other day, by flipping one single switch. How hard could it be?",
+        "value": "Починить выключатель\nЯ обещал починить выключатель в Подвале для Роуз Сан. Он должен быть с правой стороны, когда я выйду из лифта. Я видел, как Джастин сделал это на днях, щелкнув одним единственным выключателем. Неужели это так сложно?"
+    },
+    {
+        "key": "Find an appropriate place to talk\nI guess Lawrence wants to talk about today's operation. In that case, we need a private place. The break room sounds good...",
+        "value": "Найдите подходящее место для разговора\nПолагаю, Лоуренс хочет поговорить о сегодняшней операции. В таком случае нам нужно уединенное место. Комната отдыха звучит неплохо..."
+    },
+    {
+        "key": "Say sorry\nQQ and Cathy are fighting again over Ops, only this time there seems to be a lot of hurt feelings. QQ asks me to find Cathy and say sorry for him, because she's ghosting him. She should be near the shuttle platform.",
+        "value": "Попросите прощения\nКК и Кэти снова ссорятся из-за Оперативного отдела, только на этот раз, похоже, не обошлось без обид. Кью-Кью просит меня найти Кэти и извиниться за него, потому что она его избегает. Она должна быть рядом с платформой шаттла."
+    },
+    {
+        "key": "Switch shifts with Tyler\nFran says Tyler is at his desk.",
+        "value": "Поменяйтесь с Тайлером местами.\nФрэн говорит, что Тайлер за своим столом."
+    },
+    {
+        "key": "To the farm\nFrom a simple probe to stopping human trafficking, this is quite an insane leap... Anyway, I must go to the farm now. Take the shuttle at the subway station.",
+        "value": "На ферму\nОт простого зонда до прекращения торговли людьми - это довольно безумный скачок... В любом случае, мне пора на ферму. Сядьте на шаттл на станции метро."
+    },
+    {
+        "key": "Back to the office\nWayne told me to go back to the office. What's he planning?",
+        "value": "Возвращение в офис\nУэйн сказал мне вернуться в офис. Что он планирует?"
+    },
+    {
+        "key": "Consultation\nFran reminds me it's time for my consultation shift.",
+        "value": "Консультация\nФрэн напоминает мне, что пора идти на консультацию."
+    },
+    {
+        "key": "Meet Yuna Hsu\nShea Zhuang barged into the men's restroom to deliver a message for her boss... Let's see what Yuna Hsu wants.",
+        "value": "Знакомьтесь, Юна Хсу\nШи Чжуань ворвалась в мужской туалет, чтобы передать сообщение для своего босса... Давайте посмотрим, чего хочет Юна Хсу."
+    },
+    {
+        "key": "Switch shifts with someone\nTo confront parents who have sold their kids, I need to get a consultation shift today. Anyone wants to switch shifts with me?",
+        "value": "Поменяйтесь с кем-нибудь сменами\nЧтобы противостоять родителям, продавшим своих детей, мне нужно сегодня получить консультационную смену. Кто-нибудь хочет поменяться со мной сменами?"
+    },
+    {
+        "key": "Switch shifts with Jeff\nFran says Jeff's having his cigarette break near the Logistics office.",
+        "value": "Поменяйтесь сменами с Джеффом\nФрэн говорит, что у Джеффа перекур возле офиса Логистики."
+    },
+    {
+        "key": "Leave the consultation lobby\nDone talking to Yuna Hsu, although I still can't figure out what her plan is. I don't have an excuse to stay in the consultation lobby. Better get out before someone catches me.",
+        "value": "Покиньте вестибюль консультации.\nЗакончил разговор с Юной Хсу, хотя до сих пор не могу понять, в чем заключается ее план. У меня нет оправдания, чтобы оставаться в консультационном холле. Лучше уйти, пока меня никто не застукал."
+    },
+    {
+        "key": "Meet Wayne\nAfter consultation, I got a call from Wayne. He wants to see me, at my desk. I must go back to the Screening office.",
+        "value": "Знакомьтесь, Уэйн\nПосле консультации мне позвонил Уэйн. Он хочет встретиться со мной за моим столом. Я должен вернуться в офис отдела Сортировки."
+    },
+    {
+        "key": "Leave the Cellar\nMy business is done. Time to leave.",
+        "value": "Покинуть Подвал\nМои дела закончены. Пора уходить."
+    },
+    {
+        "key": "Switch shifts with Jade\nFran says Jade can be found near the contract rooms.",
+        "value": "Поменяйтесь сменами с Джейд\nФрэн говорит, что Джейд можно найти рядом с комнатами для контрактов."
+    },
+    {
+        "key": "Talk to Wayne\nWayne assigned a task to everyone, except for me. He says I'm reserved for something special, about which we should talk in private.",
+        "value": "Поговорите с Уэйном\nУэйн поручил задание всем, кроме меня. Он сказал, что я зарезервирован для чего-то особенного, о чем мы должны поговорить наедине."
+    },
+    {
+        "key": "Meet Justin\nRight after my consultation session, I got a call from Justin. He wants to meet me in the 1F lobby. I think he's nervous about something.",
+        "value": "Знакомьтесь, Джастин\nСразу после консультации мне позвонил Джастин. Он хочет встретиться со мной в холле 1F. Кажется, он из-за чего-то нервничает."
+    },
+    {
+        "key": "Confirm my shift\nI've secured a shift for today, but Fran says I should confirm that the shift is properly reassigned on my own computer.",
+        "value": "Подтвердите мою смену\nЯ получил смену на сегодня, но Фрэн говорит, что я должен подтвердить правильность назначения смены на своем компьютере."
+    },
+    {
+        "key": "Meet the big boss\nWhatever trick Yuna Hsu is doing, she's playing it <i>fast</i>. Now I'm about to see the CEO with Wayne.",
+        "value": "Познакомьтесь с большим боссом\nКакой бы трюк ни затеяла Юна Хсу, она играет его <i>быстро</i>. Сейчас я увижу генерального директора вместе с Уэйном."
+    },
+    {
+        "key": "Convince Jesse\nI promised Wayne to get Jesse on our side. Jesse's been collaborating with Wayne for a while, but this time things are different. If Wayne manages to pull it off, he'd own this farm.",
+        "value": "Убедить Джесси\nЯ обещал Уэйну привлечь Джесси на нашу сторону. Джесси уже давно сотрудничает с Уэйном, но в этот раз все по-другому. Если Уэйну удастся все провернуть, он станет владельцем этой фермы."
+    },
+    {
+        "key": "Go to the roof\nJustin and Wayne are on the roof. What for? I'd better join them up there.",
+        "value": "Отправляйтесь на крышу\nДжастин и Уэйн на крыше. Зачем? Мне лучше присоединиться к ним."
+    },
+    {
+        "key": "Talk to Justin\nJustin assigned a task to everyone, except for me. He says I'm reserved for something special, about which we should talk in private.",
+        "value": "Поговорите с Джастином\nДжастин поручил задание всем, кроме меня. Он сказал, что я зарезервирован для чего-то особенного, о чем мы должны поговорить наедине."
+    },
+    {
+        "key": "Interrogation\nSitu and 23 are back. We must begin now. Get as much info as possible out of these parents.",
+        "value": "Допрос\nСиту и 23 вернулись. Мы должны начать прямо сейчас. Получите как можно больше информации от этих родителей."
+    },
+    {
+        "key": "Meet the big boss\nWhatever trick Yuna Hsu is doing, she's playing it <i>fast</i>. Now I'm about to see the CEO with Justin.",
+        "value": "Познакомьтесь с большим боссом\nКакой бы трюк ни затеяла Юна Хсу, она играет его <i>быстро</i>. Сейчас я увижу генерального директора вместе с Джастином."
+    },
+    {
+        "key": "Meet with Shane Yan\nI'm told to meet with Shane Yan in the 1F lobby. We're about to have a final verdict for Silencio.",
+        "value": "Встреча с Шейном Яном\nМне сказали встретиться с Шейном Яном в холле 1F. Мы собираемся вынести окончательный вердикт по Silencio."
+    },
+    {
+        "key": "Find Wayne and Justin\nI checked the Screening office, but they're not there. Where could they be? I might as well ask around.",
+        "value": "Найти Уэйна и Джастина\nЯ проверил офис Сортировки, но их там нет. Где они могут быть? Я мог бы поспрашивать."
+    },
+    {
+        "key": "Back to the office\nI think Justin could seal the fate of Silencio with one compelling report, if he could do it today. The thing is, the Ops team is taking a day off. Could he do it all on his own?",
+        "value": "Возвращаемся в офис\nДумаю, Джастин мог бы решить судьбу Silencio одним убедительным отчетом, если бы смог сделать это сегодня. Но дело в том, что у команды Оперативного отдела выходной. Сможет ли он сделать все сам?"
+    },
+    {
+        "key": "Proceed on your own\nWe're at the contract room and the candidates are ready. If Situ can't make it, Lawrence and I must proceed on our own.",
+        "value": "Действуйте самостоятельно\nМы в комнате для заключения контрактов, и кандидаты уже готовы. Если Ситу не сможет прийти, мы с Лоуренсом должны действовать самостоятельно."
+    },
+    {
+        "key": "Get out\nThe shooting outside has stopped. Time to go out.",
+        "value": "Уходите.\nСтрельба снаружи прекратилась. Пора выходить."
+    },
+    {
+        "key": "Go to the Screening office\nEverything's settled...for now. I should go back to the Screening office.",
+        "value": "Отправляйтесь в офис Сортировки\nВсе улажено... пока что. Я должен вернуться в офис Сортировки."
+    },
+    {
+        "key": "Convince Cathy\nI'm helping Justin to get Cathy on our side. I don't think she'd agree, because that would be essentially backstabbing the entire Screening team.",
+        "value": "Убедить Кэти\nЯ помогаю Джастину склонить Кэти на нашу сторону. Не думаю, что она согласится, ведь это будет фактически предательством всей команды Сортировки."
+    },
+    {
+        "key": "Talk to everyone\nI have this one last chance to talk to everyone. Time to say goodbye, then join Lawrence at the contract rooms.",
+        "value": "Поговорите со всеми\nУ меня есть последний шанс поговорить со всеми. Пора прощаться, а потом присоединиться к Лоуренсу в комнатах для заключения контрактов."
+    },
+    {
+        "key": "Get back to the van\nWe are under attack! Does that mean they know our plan all along? Either way, we must evacuate right now. Situ is calling us back to the van.",
+        "value": "Возвращайтесь в фургон.\nНа нас напали! Значит ли это, что они все это время знали наш план? В любом случае, мы должны эвакуироваться прямо сейчас. Ситу зовет нас обратно в фургон."
+    },
+    {
+        "key": "Get the hell out\nWhat the...? Who the hell knocked me out? Have they left without me? Why is 23 off the grid? I've got to help myself out...",
+        "value": "Убирайся к черту\nЧто за...? Кто, черт возьми, вырубил меня? Они ушли без меня? Почему 23 не в сети? Я должен помочь себе..."
+    },
+    {
+        "key": "Leave\nSitu went after Chameleon. I'd better get out of here while I still can...",
+        "value": "Уходите\nСиту пошла за Хамелеоном. Мне лучше убраться отсюда, пока я еще могу..."
+    },
+    {
+        "key": "Into the gangster's den\nSitu told me to infiltrate the gangster's den. What the heck is she thinking? I'm not in a position to say no, though.",
+        "value": "Проникнуть в логово гангстера\nСиту велела мне проникнуть в логово гангстеров. О чем, черт возьми, она думает? Но я не в силах отказаться."
+    },
+    {
+        "key": "Wipe them out!\nFirst this pair of clowns, then that blondie jerk.",
+        "value": "Уничтожьте их!\nСначала эта парочка клоунов, потом этот придурок-блондин."
+    },
+    {
+        "key": "Go to the Ops office\nEverything's settled...for now. I should go back to the Screening office.",
+        "value": "Идите в офис Оперативного отдела.\nВсе улажено... пока что. Мне пора возвращаться в офис отдела Сортировки."
+    },
+    {
+        "key": "Listen to Situ's plan\nWe must rescue those kids bought by Vision. I suppose Situ must have plan for it...?",
+        "value": "Послушайте план Ситу\nМы должны спасти тех детей, которых купил Vision. Полагаю, у Ситу должен быть план на этот счет...?"
+    },
+    {
+        "key": "Talk to Fran\nA lot happened within a day... I should talk to Fran about it.",
+        "value": "Поговорите с Фрэн\nМногое произошло за один день... Я должен поговорить об этом с Фрэн."
+    },
+    {
+        "key": "Wait\nSitu and 23 are still out there. All we can do is wait.",
+        "value": "Подождите\nСиту и 23 все еще на свободе. Все, что мы можем сделать, это ждать."
+    },
+    {
+        "key": "Survive\nThis is Chameleon's trap. I have no idea how Situ is doing, but I've got to keep myself alive...",
+        "value": "Выжить\nЭто ловушка Хамелеона. Я понятия не имею, как там Ситу, но я должен выжить сам..."
+    },
+    {
+        "key": "Join the recap meeting\nToday's operation was one heck of a mess. What happens now...?",
+        "value": "Присоединяйтесь к совещанию по подведению итогов\nСегодняшняя операция была чертовски неудачной. Что же теперь будет...?"
+    },
+    {
+        "key": "Join Lawrence and 23\nFran wants me to hang out a bit more with Lawrence and 23. I guess they're at the same old restaurant.",
+        "value": "Присоединяйтесь к Лоуренсу и 23\nФрэн хочет, чтобы я еще немного потусовался с Лоуренсом и 23. Думаю, они в том же старом ресторане."
+    },
+    {
+        "key": "Peace talk\nWayne and Justin have decided to have one last talk. My presence is required, because I'm the middleman who made this happen.",
+        "value": "Мирный разговор\nУэйн и Джастин решили поговорить в последний раз. Мое присутствие обязательно, потому что я - посредник, благодаря которому это произошло."
+    },
+    {
+        "key": "I'm going in\n23 wants me to chat these gangsters up and get whatever intel I can, especially the whereabouts of the kids.",
+        "value": "Я иду туда.\n23 хочет, чтобы я пообщался с этими бандитами и получил любую информацию, особенно о местонахождении детей."
+    },
+    {
+        "key": "Enter the lab\nThe gate is open. Lawrence and I must go in.",
+        "value": "Войдите в лабораторию\nВорота открыты. Мы с Лоуренсом должны войти."
+    },
+    {
+        "key": "Keep Shane Yan occupied\nWayne and Justin have decided to work together. They need more time to finalize a few details. To buy them time, I must keep Shane Yan occupied in the 1F lobby.",
+        "value": "Занять Шейна Яна\nУэйн и Джастин решили работать вместе. Им нужно больше времени, чтобы согласовать некоторые детали. Чтобы выиграть время, я должен занять Шейна Яна в холле 1F."
+    },
+    {
+        "key": "Get into the facility\nSitu opened the door. Lawrence and I must join her inside.",
+        "value": "Попасть в помещение\nСиту открыла дверь. Мы с Лоуренсом должны присоединиться к ней внутри."
+    },
+    {
+        "key": "Enter the lab\nSitu says it's all clear. We can enter the lab now.",
+        "value": "Войдите в лабораторию\nСиту говорит, что все чисто. Теперь мы можем войти в лабораторию."
+    },
+    {
+        "key": "Find Lawrence and 23\nSurprise. They're not here. Is there any other restaurant nearby?",
+        "value": "Найти Лоуренса и 23\nСюрприз. Их здесь нет. Есть ли поблизости какой-нибудь другой ресторан?"
+    },
+    {
+        "key": "Open the lab gate\nSitu says the screen by the gate is a control panel. The thing is, it won't work without an ID of sorts. Hopefully one of these people neutralized by Situ is carrying one.",
+        "value": "Откройте ворота лаборатории.\nСиту говорит, что экран у ворот - это панель управления. Дело в том, что она не работает без какого-то идентификатора. Надеюсь, у кого-то из нейтрализованных Ситу людей есть такой документ."
+    },
+    {
+        "key": "See Situ\nI've got to see Situ, together with Fran.",
+        "value": "Увидеть Ситу\nЯ должен увидеть Ситу, вместе с Фрэн."
+    },
+    {
+        "key": "Tell Lawrence the password\nThe password is 7121. I must let Lawrence know.",
+        "value": "Сообщите Лоуренсу пароль\nПароль - 7121. Я должен сообщить его Лоуренсу."
+    },
+    {
+        "key": "Survive\nThey spotted us! The only way out is forward. We must move quickly. Can't afford to stop...",
+        "value": "Выжить\nОни нас заметили! Единственный выход - вперед. Мы должны двигаться быстро. Мы не можем позволить себе остановиться..."
+    },
+    {
+        "key": "Retrieve the decryption device\nThe gadget has done its job. Unplug it.",
+        "value": "Извлеките устройство для дешифровки\nГаджет выполнил свою работу. Отключите его."
+    },
+    {
+        "key": "Get the password\nWe're stuck at a gate protected by a password. That researcher might know what the password is.",
+        "value": "Узнайте пароль\nМы застряли у ворот, защищенных паролем. Этот исследователь может знать, что это за пароль."
+    },
+    {
+        "key": "I'm on my own\nWe got separated. I must carry on without Lawrence.",
+        "value": "Я сама по себе.\nМы расстались. Я должна продолжать жить без Лоуренса."
+    },
+    {
+        "key": "Meet Lawrence at the subway station\nWe're going to Vision's tucked away secret facility, taking one of Vision's shuttles. Lawrence is waiting at the subway station.",
+        "value": "Встречаемся с Лоуренсом на станции метро.\nМы отправляемся на секретный объект компании Vision на одном из шаттлов Vision. Лоуренс ждет на станции метро."
+    },
+    {
+        "key": "Keep up with Lawrence\nThe gate's open. Lawrence knows where Yan is. I must keep up with him.",
+        "value": "Не отставайте от Лоуренса.\nВорота открыты. Лоуренс знает, где Ян. Я должен идти с ним в ногу."
+    },
+    {
+        "key": "Use the console\nApproach the console and plug in the decryption device.",
+        "value": "Используйте консоль\nПодойдите к консоли и подключите устройство для расшифровки."
+    },
+    {
+        "key": "Regroup with Lawrence\nI have everything there is to know about Project Sleeping God. \nNow, regroup with Lawrence. \nOut of the lab and all the way forward.",
+        "value": "Перегруппируйтесь с Лоуренсом\nУ меня есть все, что нужно знать о проекте \"Спящий Бог\".\nТеперь перегруппируйтесь с Лоуренсом.\nВыходим из лаборатории и идем вперед."
+    },
+    {
+        "key": "Wait for Situ\nSitu went into the lab, telling me and Lawrence to wait here, till all's clear inside...",
+        "value": "Ждите Ситу\nСиту вошла в лабораторию, сказав мне и Лоуренсу ждать здесь, пока внутри все не прояснится..."
+    },
+    {
+        "key": "Push forward\nSitu was ambushed by Chameleon and his minions. Lawrence and I, meanwhile, must catch Yan before he gets away.",
+        "value": "Продвигайтесь вперед\nСиту попала в засаду, устроенную Хамелеоном и его приспешниками. Мы с Лоуренсом должны поймать Яна, пока он не скрылся."
+    },
+    {
+        "key": "The Truth",
+        "value": "Правда"
+    },
+    {
+        "key": "Movement",
+        "value": "Движение"
+    },
+    {
+        "key": "The Final Choice",
+        "value": "Окончательный выбор"
+    },
+    {
+        "key": "Farm - Investigation",
+        "value": "Ферма - Расследование"
+    },
+    {
+        "key": "Home: Your Resolve",
+        "value": "Главная: Решимость"
+    },
+    {
+        "key": "Farm - Consultation",
+        "value": "Ферма - Консультация"
+    },
+    {
+        "key": "Home: Nin Situ",
+        "value": "Дом: Нин Ситу"
+    },
+    {
+        "key": "Home",
+        "value": "Главная"
+    },
+    {
+        "key": "Home: The Endgame",
+        "value": "Дом: Эндшпиль"
+    },
+    {
+        "key": "Home: Lawrence & 23",
+        "value": "Дом: Лоуренс и 23"
+    },
+    {
+        "key": "Farm: Corridor Clash",
+        "value": "Ферма: Столкновение коридоров"
+    },
+    {
+        "key": "Farm: Auntie's Trouble",
+        "value": "Ферма: Тетушкины неприятности"
+    },
+    {
+        "key": "Hospital",
+        "value": "Больница"
+    },
+    {
+        "key": "Street",
+        "value": "Улица"
+    },
+    {
+        "key": "Get him\nI'm gonna kill that bastard!",
+        "value": "Взять его.\nЯ убью этого ублюдка!"
+    },
+    {
+        "key": "Продолжить",
+        "value": "Продолжить"
+    },
+    {
+        "key": "Новая игра",
+        "value": "Новая игра"
+    },
+    {
+        "key": "Take Lawrence's decryption device\nUnplug Lawrence's decryption device from the other console.",
+        "value": "Возьмите устройство расшифровки Лоуренса\nОтключите устройство расшифровки Лоуренса от другой консоли."
+    },
+    {
+        "key": "Home: We Need to Talk",
+        "value": "Главная: Нам нужно поговорить"
+    },
+    {
+        "key": "To the elevator\nThere should be an elevator not far ahead. It's Yan's escape route. I must catch him before he gets away...",
+        "value": "К лифту\nНедалеко отсюда должен быть лифт. Это путь к отступлению Яна. Я должен поймать его, пока он не сбежал..."
+    },
+    {
+        "key": "Персонажи",
+        "value": "Персонажи"
+    },
+    {
+        "key": "Farm: The Future",
+        "value": "Ферма: Будущее"
+    },
+    {
+        "key": "Home: Oh Sweet Home",
+        "value": "Дом, милый дом"
+    },
+    {
+        "key": "Read the minds",
+        "value": "Прочитать мысли"
+    },
+    {
+        "key": "Farm - Work",
+        "value": "Ферма - Работа"
+    },
+    {
+        "key": "Somewhere: Den of Wolves",
+        "value": "Где-то: Волчье логово"
+    },
+    {
+        "key": "Leave the ward",
+        "value": "Покинуть палату"
+    },
+    {
+        "key": "Farm: The Flop Core",
+        "value": "Ферма: Flop Core"
+    },
+    {
+        "key": "Path Unlocked",
+        "value": "Путь разблокирован"
+    },
+    {
+        "key": "Farm - Infiltration",
+        "value": "Ферма - Проникновение"
+    },
+    {
+        "key": "Investigation",
+        "value": "Расследование"
+    },
+    {
+        "key": "[ Resume ]",
+        "value": "[ Резюме ]"
+    },
+    {
+        "key": "Farm - Ops",
+        "value": "Ферма - Оперативный отдел"
+    },
+    {
+        "key": "[ Exit the game ]",
+        "value": "[ Выход из игры ]"
+    },
+    {
+        "key": "Farm - Newbie",
+        "value": "Ферма - Новичок"
+    },
+    {
+        "key": "Farm - Screening",
+        "value": "Ферма - отдел Сортировки"
+    },
+    {
+        "key": "　Use the hint to solve the password\n",
+        "value": "　Используйте подсказку, чтобы разгадать пароль\n"
+    },
+    {
+        "key": "Replay ：[R]\nExit the game：[Esc]\nChoose Level：[F9]",
+        "value": "Воспроизвести：[R]\nВыход из игры：[Esc]\nВыбрать уровень：[F9]"
+    },
+    {
+        "key": "[Reset This Level ]",
+        "value": "[ Сбросить этот уровень ]"
+    },
+    {
+        "key": "　Find the password hint\n",
+        "value": "　Найдите подсказку для пароля\n"
+    },
+    {
+        "key": "WISHLIST ON STEAM RIGHT NOW!",
+        "value": "ДОБАВЬТЕ В СПИСОК ЖЕЛАНИЙ В STEAM ПРЯМО СЕЙЧАС!"
+    },
+    {
+        "key": "This demo is over, thanks for playing <3",
+        "value": "Демоверсия окончена, спасибо за игру <3"
+    },
+    {
+        "key": "　Press<sprite name=\"Normal/PlayerThought\">to read the minds",
+        "value": "　Нажмите<sprite name=\"Normal/PlayerThought\">для чтения мыслей."
+    },
+    {
+        "key": "Cheat Code\n[F9]：Enter the level select scene\n[F11]：Activate dialogue skipping  function\n[F12]：Deactivate dialogue skipping  function\n[Tab]：Accelerate time ( *Might be buggy )",
+        "value": "Чит-код\n[F9]：Вход в сцену выбора уровня\n[F11]：Активировать функцию пропуска диалогов\n[F12]：Деактивировать функцию пропуска диалогов\n[Tab]：Ускорить время (*Может быть баг)"
+    },
+    {
+        "key": "　Use<sprite name=\"Normal/InspectMove\">to move the cursor. Press<sprite name=\"Normal/Inspect\">on the door lock to investigate it",
+        "value": "　Используйте<sprite name=\"Normal/InspectMove\">для перемещения курсора. Нажмите<sprite name=\"Normal/Inspect\">на дверной замок, чтобы исследовать его"
+    },
+    {
+        "key": "Full Screen",
+        "value": "Полный экран"
+    },
+    {
+        "key": "Options",
+        "value": "Опции"
+    },
+    {
+        "key": "Screen Mode",
+        "value": "Режим окна"
+    },
+    {
+        "key": "Back",
+        "value": "Назад"
+    },
+    {
+        "key": "Music Volume",
+        "value": "Громкость музыки"
+    },
+    {
+        "key": "Confirm",
+        "value": "Подтвердите"
+    },
+    {
+        "key": "Credits",
+        "value": "Авторы"
+    },
+    {
+        "key": "Control",
+        "value": "Управление"
+    },
+    {
+        "key": "Language",
+        "value": "Язык"
+    },
+    {
+        "key": "Discord",
+        "value": "Дискорд"
+    },
+    {
+        "key": "[F9]：Enter the level select scene",
+        "value": "[F9]：Вход в сцену выбора уровня"
+    },
+    {
+        "key": "Main Menu",
+        "value": "Главное меню"
+    },
+    {
+        "key": "Yes",
+        "value": "Да"
+    },
+    {
+        "key": "No",
+        "value": "Нет"
+    },
+    {
+        "key": "Borderless Windowed",
+        "value": "Окно без рамки"
+    },
+    {
+        "key": "Master Volume",
+        "value": "Общая громкость"
+    },
+    {
+        "key": "Pause",
+        "value": "Пауза"
+    },
+    {
+        "key": "Windowed",
+        "value": "Окно"
+    },
+    {
+        "key": "SFX Volume",
+        "value": "SFX Volume"
+    },
+    {
+        "key": "Resolution",
+        "value": "Разрешение"
+    },
+    {
+        "key": "Brightness",
+        "value": "Яркость"
+    },
+    {
+        "key": "Move right",
+        "value": "Двигаться вправо"
+    },
+    {
+        "key": "　<sprite name=\"Normal/Move:Negative\"><sprite name=\"Normal/Move:Positive\">move (<sprite name=\"Normal/Run\">run)",
+        "value": "　<sprite name=\"Normal/Move:Negative\"><sprite name=\"Normal/Move:Positive\">движение (<sprite name=\"Normal/Run\">бег)"
+    },
+    {
+        "key": "Voice Volume",
+        "value": "Громкость голоса"
+    },
+    {
+        "key": "Day 0",
+        "value": "День 0"
+    },
+    {
+        "key": "Run",
+        "value": "Старт"
+    },
+    {
+        "key": "Mind",
+        "value": "Разум"
+    },
+    {
+        "key": "Move left",
+        "value": "Двигаться влево"
+    },
+    {
+        "key": "Move",
+        "value": "Двигаться"
+    },
+    {
+        "key": "VSync",
+        "value": "VSync"
+    },
+    {
+        "key": "Enter Chapter",
+        "value": "Введите главу"
+    },
+    {
+        "key": "Inspect",
+        "value": "Осмотреться"
+    },
+    {
+        "key": "Move virtual cursor",
+        "value": "Перемещение виртуального курсора"
+    },
+    {
+        "key": "Show next dialogue",
+        "value": "Показать следующий диалог"
+    },
+    {
+        "key": "Day 1",
+        "value": "День 1"
+    },
+    {
+        "key": "Day 2",
+        "value": "День 2"
+    },
+    {
+        "key": "All unsaved progress will be lost. Are you sure to return to the Main Menu?",
+        "value": "Весь несохраненный прогресс будет потерян. Вы уверены, что хотите вернуться в главное меню?"
+    },
+    {
+        "key": "All existing progress will be overwritten. Are you sure to start a new game?",
+        "value": "Весь существующий прогресс будет перезаписан. Вы уверены, что хотите начать новую игру?"
+    },
+    {
+        "key": "Last save: {0} hr {1} m {2} s ago",
+        "value": "Последнее сохранение: {0} ч {1} м {2} с назад"
+    },
+    {
+        "key": "Dialogue log",
+        "value": "Журнал диалогов"
+    },
+    {
+        "key": "Skip previously read dialogue",
+        "value": "Пропустить ранее прочитанный диалог"
+    },
+    {
+        "key": "Day 3",
+        "value": "День 3"
+    },
+    {
+        "key": "Choose dialogue option",
+        "value": "Выберите вариант диалога"
+    },
+    {
+        "key": "Speed up virtual cursor",
+        "value": "Ускорение работы виртуального курсора"
+    },
+    {
+        "key": "You will restart from this chapter, and all subsequent progress will be lost. Are you sure to continue?",
+        "value": "Вы начнете заново с этой главы, а весь последующий прогресс будет потерян. Вы уверены, что хотите продолжить?"
+    },
+    {
+        "key": "G҉̨̱̯̬́̾̎́̚͡3̵̢̛̯̗͆͒Ą̵̩͚̗̲҇̎͆̍̑U̷̢̬͖͉͍͛͆̃̀̕/҈̬͉̭͔̅̊̍͜͠4̶̛̠̪̮̓̇̆͢\n1̸̧̲̳͓̱̙͒̒̾̓̕J҈͉̙̀̀͌̾͢͝6҈̣̯̬̇͑̓̽͜͡Ũ̶̢̱̳̰͂̔̚͝L҈̱̟̤̘͗̍̃̋͢͡4҉̡̲̰̅̃̏̇̎͡M҉̧̤͎̱́̀̀̀̔͠ͅͅV̶̨̛̝̎̃ͅP̸̛̥̯̿̍̒͜6҉̧̲̙̃̋̕F̸̨̛͕̲̞̮͊̒͗U̶̡͈̘͕̰͊̍̐̈́͒͞.̵̢̫͓̦͉̍̌͝6҉͓̮͒́̈̚͜͞U҉̡͙̰̲͇́̊̓̎̕4̵̨̭͇̱͋̈́̄̕U҉͕͚̖͙͖͋̄̓͜͝4҉͓̥͇̈͂̑̋͢͠",
+        "value": "G҉̨̱̯̬́̾̎́̚͡3̵̢̛̯̗͆͒Ą̵̩͚̗̲҇̎͆̍̑U̷̢̬͖͉͍͛͆̃̀̕/҈̬͉̭͔̅̊̍͜͠4̶̛̠̪̮̓̇̆͢\n1̸̧̲̳͓̱̙͒̒̾̓̕J҈͉̙̀̀͌̾͢͝6҈̣̯̬̇͑̓̽͜͡Ũ̶̢̱̳̰͂̔̚͝L҈̱̟̤̘͗̍̃̋͢͡4҉̡̲̰̅̃̏̇̎͡M҉̧̤͎̱́̀̀̀̔͠ΙΙV̶̨̛̝̎̃ͅP̸̛̥̯̿̍̒͜6҉̧̲̙̃̋̕F̸̨̛͕̲̞̮͊̒͗U̶̡͈̘͕̰͊̍̐̈́͒͞.̵̢̫͓̦͉̍̌͝6҉͓̮͒́̈̚͜͞U҉̡͙̰̲͇́̊̓̎̕4̵̨̭͇̱͋̈́̄̕U҉͕͚̖͙͖͋̄̓͜͝4҉͓̥͇̈͂̑̋͢͠"
+    },
+    {
+        "key": "Day 5",
+        "value": "День 5"
+    },
+    {
+        "key": "Access Restricted",
+        "value": "Доступ ограничен"
+    },
+    {
+        "key": "Day 4",
+        "value": "День 4"
+    },
+    {
+        "key": "Logistics",
+        "value": "Отдел Логистики"
+    },
+    {
+        "key": "Screening",
+        "value": "Отдел Сортировки"
+    },
+    {
+        "key": "Contract/Consultation",
+        "value": "Контракт/консультация"
+    },
+    {
+        "key": "Interact",
+        "value": "Взаимодействовать"
+    },
+    {
+        "key": "Shuttle Platform",
+        "value": "Платформа для шаттла"
+    },
+    {
+        "key": "Date: {0}",
+        "value": "Дата: {0}"
+    },
+    {
+        "key": "Slot {0}",
+        "value": "Слот {0}"
+    },
+    {
+        "key": "Entrance Lobby",
+        "value": "Входной вестибюль"
+    },
+    {
+        "key": "Rooftop",
+        "value": "Крыша"
+    },
+    {
+        "key": "Skip read dialogue",
+        "value": "Пропустить диалог"
+    },
+    {
+        "key": "Autosave",
+        "value": "Автосохранение"
+    },
+    {
+        "key": "Reset Progress",
+        "value": "Сброс прогресса"
+    },
+    {
+        "key": "Save: Slot {0}",
+        "value": "Сохранить: Слот {0}"
+    },
+    {
+        "key": "Quickly skip through read dialogue",
+        "value": "Быстрое проматывание прочитанного диалога"
+    },
+    {
+        "key": "Start a new game in this slot.",
+        "value": "Начните новую игру в этом слоте."
+    },
+    {
+        "key": "Play Time: {0} hr {1} min",
+        "value": "Время игры: {0} ч {1} м"
+    },
+    {
+        "key": "Delete the saved game in this slot?",
+        "value": "Удалить сохраненную игру в этом слоте?"
+    },
+    {
+        "key": "Reset the game in this slot and start over?",
+        "value": "Перезапустить игру в этом слоте и начать заново?"
+    },
+    {
+        "key": "A new saved will be created in a new saving slot. \nDo you wish to continue?",
+        "value": "Новое сохранение будет создано в новом слоте сохранения.\nВы хотите продолжить?"
+    },
+    {
+        "key": "All saving slots are occupied. Your new save will overwrite the current slot. \nDo you wish to continue?",
+        "value": "Все слоты сохранения заняты. Ваше новое сохранение перезапишет текущий слот.\nВы хотите продолжить?"
+    },
+    {
+        "key": "A new game starting from this chapter will be created in a new slot. \nDo you wish to continue?",
+        "value": "Новая игра, начинающаяся с этой главы, будет создана в новом слоте.\nВы хотите продолжить?"
+    },
+    {
+        "key": "This story is purely fictional and is not related to any real people or events. Any resemblance is purely coincidental.",
+        "value": "Эта история является чисто вымышленной и не связана с какими-либо реальными людьми или событиями. Любое сходство чисто случайно."
+    },
+    {
+        "key": "All saving slots are occupied. A new game starting from this chapter will be created, overwriting the current slot. \nDo you wish to continue?",
+        "value": "Все слоты сохранения заняты. Будет создана новая игра, начинающаяся с этой главы, с перезаписью текущего слота.\nВы хотите продолжить?"
+    },
+    {
+        "key": "Now you can fast forward through conversations that you have already seen by holding <sprite name=\"UI/SkipReadSayUnit\">.",
+        "value": "Теперь вы можете перематывать разговоры, которые вы уже видели, удерживая <sprite name=\"UI/SkipReadSayUnit\">."
+    },
+    {
+        "key": "Main Task",
+        "value": "Главная задача"
+    },
+    {
+        "key": "Delete",
+        "value": "Удалить"
+    },
+    {
+        "key": "Camera Shake",
+        "value": "Комната для встряски"
+    }
+]

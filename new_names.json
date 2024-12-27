@@ -1,0 +1,938 @@
+[
+    {
+        "key": "Kaylee Chen",
+        "value": "Кейли Чен"
+    },
+    {
+        "key": "Albert Tsai",
+        "value": "Альберт Цай"
+    },
+    {
+        "key": "Karin Chang",
+        "value": "Карин Чанг"
+    },
+    {
+        "key": "Harold Zhu",
+        "value": "Гарольд Чжу"
+    },
+    {
+        "key": "Michael Hsiao",
+        "value": "Майкл Хсиао"
+    },
+    {
+        "key": "Wayne Zheng",
+        "value": "Уэйн Чжэн"
+    },
+    {
+        "key": "Lawrence Chang",
+        "value": "Лоуренс Чанг"
+    },
+    {
+        "key": "Quentin Qiu",
+        "value": "Квентин Кю"
+    },
+    {
+        "key": "Calibrator",
+        "value": "Калибратор"
+    },
+    {
+        "key": "Grandma",
+        "value": "Бабушка"
+    },
+    {
+        "key": "23",
+        "value": "23"
+    },
+    {
+        "key": "Jeff Wu",
+        "value": "Джефф Ву"
+    },
+    {
+        "key": "Cynthia Ho",
+        "value": "Синтия Хо"
+    },
+    {
+        "key": "Alex Tsai",
+        "value": "Алекс Цай"
+    },
+    {
+        "key": "Seth Lo",
+        "value": "Сет Ло"
+    },
+    {
+        "key": "Yale Yang",
+        "value": "Йель Янг"
+    },
+    {
+        "key": "Nin Situ",
+        "value": "Нин Ситу"
+    },
+    {
+        "key": "Jade Lin",
+        "value": "Джейд Лин"
+    },
+    {
+        "key": "Jesse Lai",
+        "value": "Джесси Лай"
+    },
+    {
+        "key": "System",
+        "value": "Система"
+    },
+    {
+        "key": "Justin Wu",
+        "value": "Джастин Ву"
+    },
+    {
+        "key": "Rose Sun",
+        "value": "Роуз Сан"
+    },
+    {
+        "key": "Jason Dai",
+        "value": "Джейсон Дай"
+    },
+    {
+        "key": "Shane Yan",
+        "value": "Шейн Ян"
+    },
+    {
+        "key": "George Yeh",
+        "value": "Джордж Йе"
+    },
+    {
+        "key": "Eva Yeh",
+        "value": "Ева Йе"
+    },
+    {
+        "key": "Camleon Bai",
+        "value": "Камлеон Бай"
+    },
+    {
+        "key": "Sheldon Tseng",
+        "value": "Шелдон Ценг"
+    },
+    {
+        "key": "Cathy Hsieh",
+        "value": "Кэти Хсие"
+    },
+    {
+        "key": "Augmentor",
+        "value": "Аугментор"
+    },
+    {
+        "key": "Kevin Hu",
+        "value": "Кевин Ху"
+    },
+    {
+        "key": "Liam Hsu",
+        "value": "Лиам Хсу"
+    },
+    {
+        "key": "Hank Liu",
+        "value": "Хэнк Лю"
+    },
+    {
+        "key": "George Liao",
+        "value": "Джордж Ляо"
+    },
+    {
+        "key": "Stella Huang",
+        "value": "Стелла Хуанг"
+    },
+    {
+        "key": "Thought",
+        "value": "Мысли"
+    },
+    {
+        "key": "Edith Yeh",
+        "value": "Эдит Йе"
+    },
+    {
+        "key": "[Anomaly]",
+        "value": "[Аномалия]"
+    },
+    {
+        "key": "Shea Zhuang",
+        "value": "Ши Чжуань"
+    },
+    {
+        "key": "Frances Cheng",
+        "value": "Фрэнсис Ченг"
+    },
+    {
+        "key": "Yuna Hsu",
+        "value": "Юна Хсу"
+    },
+    {
+        "key": "Soma Wan",
+        "value": "Сома Ван"
+    },
+    {
+        "key": "Ruby Chen",
+        "value": "Руби Чен"
+    },
+    {
+        "key": "Timothy Yen",
+        "value": "Тимоти Йен"
+    },
+    {
+        "key": "Susan Chiu",
+        "value": "Сьюзан Чиу"
+    },
+    {
+        "key": "Wyatt Ke",
+        "value": "Уайатт Ке"
+    },
+    {
+        "key": "Chase Luo",
+        "value": "Чейз Луо"
+    },
+    {
+        "key": "Penelope Lai",
+        "value": "Пенелопа Лай"
+    },
+    {
+        "key": "Tyler Cao",
+        "value": "Тайлер Цао"
+    },
+    {
+        "key": "Paxton Luo",
+        "value": "Пакстон Луо"
+    },
+    {
+        "key": "Nobo Dee",
+        "value": "Нобо Ди"
+    },
+    {
+        "key": "Mia Lai",
+        "value": "Миа Лай"
+    },
+    {
+        "key": "Rory Chen",
+        "value": "Рори Чен"
+    },
+    {
+        "key": "Woody Chen",
+        "value": "Вуди Чен"
+    },
+    {
+        "key": "Shawn Chen",
+        "value": "Шон Чен"
+    },
+    {
+        "key": "Nathan Chuang",
+        "value": "Натан Чуан"
+    },
+    {
+        "key": "Amelia Kuo",
+        "value": "Амелия Куо"
+    },
+    {
+        "key": "Control Panel",
+        "value": "Контрольная панель"
+    },
+    {
+        "key": "Ray Fu",
+        "value": "Рэй Фу"
+    },
+    {
+        "key": "Kaitlyn Zhu",
+        "value": "Кейтлин Чжу"
+    },
+    {
+        "key": "朱浩宏",
+        "value": "Чжу Хаохун"
+    },
+    {
+        "key": "Sean Lu",
+        "value": "Шон Лу"
+    },
+    {
+        "key": "Sky Qiu",
+        "value": "Скай Кю"
+    },
+    {
+        "key": "Yvonne Chiang",
+        "value": "Ивонн Чианг"
+    },
+    {
+        "key": "Ivan Zhang",
+        "value": "Иван Чжан"
+    },
+    {
+        "key": "Terminal C-2",
+        "value": "Терминал C-2"
+    },
+    {
+        "key": "Computer",
+        "value": "Компьютер"
+    },
+    {
+        "key": "TV",
+        "value": "ТВ"
+    },
+    {
+        "key": "Interface",
+        "value": "Интерфейс"
+    },
+    {
+        "key": "Logan Chu",
+        "value": "Логан Чу"
+    },
+    {
+        "key": "Yannick He",
+        "value": "Янник Хе"
+    },
+    {
+        "key": "Lily Chen",
+        "value": "Лили Чен"
+    },
+    {
+        "key": "Sophie Qiu",
+        "value": "Софи Кю"
+    },
+    {
+        "key": "Zoe Wu",
+        "value": "Зои Ву"
+    },
+    {
+        "key": "Yara Liu",
+        "value": "Яра Лю"
+    },
+    {
+        "key": "Tighe Liu",
+        "value": "Тигэ Лю"
+    },
+    {
+        "key": "Sydney Tung",
+        "value": "Сидни Тунг"
+    },
+    {
+        "key": "Yolanda Chen",
+        "value": "Иоланда Чен"
+    },
+    {
+        "key": "Silencio",
+        "value": "Silencio"
+    },
+    {
+        "key": "Golgotha Mk. III",
+        "value": "Golgotha Mk. III"
+    },
+    {
+        "key": "Leo Ren",
+        "value": "Лео Рен"
+    },
+    {
+        "key": "Mercenary A",
+        "value": "Наемник А"
+    },
+    {
+        "key": "Yevin He",
+        "value": "Йевин Хе"
+    },
+    {
+        "key": "Yaron Kun",
+        "value": "Ярон Кун"
+    },
+    {
+        "key": "Simone Lo",
+        "value": "Симона Ло"
+    },
+    {
+        "key": "Eric Feng",
+        "value": "Эрик Фенг"
+    },
+    {
+        "key": "Eugene Dai",
+        "value": "Юджин Дай"
+    },
+    {
+        "key": "Ann Jiang",
+        "value": "Энн Цзян"
+    },
+    {
+        "key": "Deputy",
+        "value": "Заместитель"
+    },
+    {
+        "key": "Chelsea Ke",
+        "value": "Челси Ке"
+    },
+    {
+        "key": "Kent Liu",
+        "value": "Кент Лю"
+    },
+    {
+        "key": "Tuco Liu",
+        "value": "Туко Лю"
+    },
+    {
+        "key": "Vincent Kuo",
+        "value": "Винсент Куо"
+    },
+    {
+        "key": "Zachary Zhang",
+        "value": "Закари Чжан"
+    },
+    {
+        "key": "Jeremy Chen",
+        "value": "Джереми Чен"
+    },
+    {
+        "key": "Maxwell Chung",
+        "value": "Максвелл Чанг"
+    },
+    {
+        "key": "Charmaine Sue",
+        "value": "Чармейн Сью"
+    },
+    {
+        "key": "Ysabel Chang",
+        "value": "Изабель Чанг"
+    },
+    {
+        "key": "[News] Perry Hsu",
+        "value": "[Новости] Перри Хсу"
+    },
+    {
+        "key": "Rick Wang",
+        "value": "Рик Ванг"
+    },
+    {
+        "key": "Ruby Liu",
+        "value": "Руби Лю"
+    },
+    {
+        "key": "Calvin Tsai",
+        "value": "Кельвин Цай"
+    },
+    {
+        "key": "Quinn Tsai",
+        "value": "Куинн Цай"
+    },
+    {
+        "key": "宋雅琪",
+        "value": "Жаклин Сонг"
+    },
+    {
+        "key": "Miles Zhang",
+        "value": "Майлз Чжан"
+    },
+    {
+        "key": "Iona Hwang",
+        "value": "Иона Хван"
+    },
+    {
+        "key": "Lillian Liang",
+        "value": "Лилиан Лян"
+    },
+    {
+        "key": "Grace Yuan",
+        "value": "Грейс Юань"
+    },
+    {
+        "key": "[News] Adrian Liu",
+        "value": "[Новости] Адриан Лю"
+    },
+    {
+        "key": "Serena Wang",
+        "value": "Серена Ванг"
+    },
+    {
+        "key": "Jamie Syu",
+        "value": "Джейми Сю"
+    },
+    {
+        "key": "Kyle Lai",
+        "value": "Кайл Лай"
+    },
+    {
+        "key": "Dylan Chiu",
+        "value": "Дилан Чиу"
+    },
+    {
+        "key": "Carter Jiang",
+        "value": "Картер Цзян"
+    },
+    {
+        "key": "Rosalina Lin",
+        "value": "Розалина Лин"
+    },
+    {
+        "key": "Spencer Wang",
+        "value": "Спенсер Ванг"
+    },
+    {
+        "key": "Riley Hsieh",
+        "value": "Райли Хсие"
+    },
+    {
+        "key": "[News] Shane Yan",
+        "value": "[Новости] Шейн Ян"
+    },
+    {
+        "key": "[News] Chloe Yang",
+        "value": "[Новости] Хлоя Янг"
+    },
+    {
+        "key": "Access Control",
+        "value": "Контроль доступа"
+    },
+    {
+        "key": "Scott Wu",
+        "value": "Скотт Ву"
+    },
+    {
+        "key": "Morgan Lim",
+        "value": "Морган Лим"
+    },
+    {
+        "key": "Maya Tan",
+        "value": "Майя Тан"
+    },
+    {
+        "key": "Lucas Song",
+        "value": "Лукас Сонг"
+    },
+    {
+        "key": "Tina Yen",
+        "value": "Тина Йен"
+    },
+    {
+        "key": "Mercenary B",
+        "value": "Наемник Б"
+    },
+    {
+        "key": "Mercenary C",
+        "value": "Наемник С"
+    },
+    {
+        "key": "Ivy Chen",
+        "value": "Айви Чен"
+    },
+    {
+        "key": "Avery Lin",
+        "value": "Эйвери Лин"
+    },
+    {
+        "key": "Tiffany Huang",
+        "value": "Тиффани Хуанг"
+    },
+    {
+        "key": "Chris Siao",
+        "value": "Крис Сиао"
+    },
+    {
+        "key": "Ryan Zhang",
+        "value": "Райан Чжан"
+    },
+    {
+        "key": "Cedric Zhang",
+        "value": "Седрик Чжан"
+    },
+    {
+        "key": "Caleb Peng",
+        "value": "Калеб Пенг"
+    },
+    {
+        "key": "Isaac Wang",
+        "value": "Исаак Ванг"
+    },
+    {
+        "key": "Jeffrey Jian",
+        "value": "Джеффри Цзянь"
+    },
+    {
+        "key": "[News] Laura Su",
+        "value": "[Новости] Лаура Су"
+    },
+    {
+        "key": "[News] Daniel Chen",
+        "value": "[Новости] Дэниел Чен"
+    },
+    {
+        "key": "Theodore Wu",
+        "value": "Теодор Ву"
+    },
+    {
+        "key": "Bella Tsai",
+        "value": "Белла Цай"
+    },
+    {
+        "key": "Simon Chen",
+        "value": "Саймон Чен"
+    },
+    {
+        "key": "Shad Yang",
+        "value": "Шад Янг"
+    },
+    {
+        "key": "Felix Shi",
+        "value": "Феликс Ши"
+    },
+    {
+        "key": "Jillian Zhu",
+        "value": "Джиллиан Чжу"
+    },
+    {
+        "key": "Ariel Chen",
+        "value": "Ариэль Чен"
+    },
+    {
+        "key": "Connor Peng",
+        "value": "Коннор Пенг"
+    },
+    {
+        "key": "Daisy Chen",
+        "value": "Дейзи Чен"
+    },
+    {
+        "key": "[News] Sheldon Wang",
+        "value": "[Новости] Шелдон Ванг"
+    },
+    {
+        "key": "Jared Yao",
+        "value": "Джаред Яо"
+    },
+    {
+        "key": "Samuel Liu",
+        "value": "Сэмюэль Лю"
+    },
+    {
+        "key": "Zachary Wu",
+        "value": "Закари Ву"
+    },
+    {
+        "key": "Wendy Shi",
+        "value": "Венди Ши"
+    },
+    {
+        "key": "Jacob Wang",
+        "value": "Джейкоб Ванг"
+    },
+    {
+        "key": "Brian Wu",
+        "value": "Брайан Ву"
+    },
+    {
+        "key": "Jeremy Lin",
+        "value": "Джереми Лин"
+    },
+    {
+        "key": "Rory Zhang",
+        "value": "Рори Чжан"
+    },
+    {
+        "key": "Marcus Wang",
+        "value": "Маркус Ванг"
+    },
+    {
+        "key": "Hannah Jian",
+        "value": "Ханна Цзянь"
+    },
+    {
+        "key": "Naomi Chang",
+        "value": "Наоми Чанг"
+    },
+    {
+        "key": "Fiona Yeh",
+        "value": "Фиона Йе"
+    },
+    {
+        "key": "Juliet Yang",
+        "value": "Джульетта Янг"
+    },
+    {
+        "key": "Rowan Chen",
+        "value": "Роуэн Чен"
+    },
+    {
+        "key": "Melvin Qiu",
+        "value": "Мелвин Кю"
+    },
+    {
+        "key": "[News] Willow Liu",
+        "value": "[Новости] Уиллоу Лю"
+    },
+    {
+        "key": "Hugo Liang",
+        "value": "Хьюго Лян"
+    },
+    {
+        "key": "[News] Auston Lin",
+        "value": "[Новости] Остон Лин"
+    },
+    {
+        "key": "Xavier Zhao",
+        "value": "Ксавье Чжао"
+    },
+    {
+        "key": "[News] Zara Xu",
+        "value": "[Новости] Зара Сюй"
+    },
+    {
+        "key": "Tevin Chu",
+        "value": "Тевин Чу"
+    },
+    {
+        "key": "Cleve Chen",
+        "value": "Клив Чен"
+    },
+    {
+        "key": "Gerald Su",
+        "value": "Джеральд Су"
+    },
+    {
+        "key": "Merton Zhang",
+        "value": "Мертон Чжан"
+    },
+    {
+        "key": "Clive Chen",
+        "value": "Клайв Чен"
+    },
+    {
+        "key": "Naomi Tsai",
+        "value": "Наоми Цай"
+    },
+    {
+        "key": "Mia Pang",
+        "value": "Миа Панг"
+    },
+    {
+        "key": "Jalen Huang",
+        "value": "Джален Хуанг"
+    },
+    {
+        "key": "Oliver Huan",
+        "value": "Оливер Хуан"
+    },
+    {
+        "key": "Natalie Zhong",
+        "value": "Натали Чжун"
+    },
+    {
+        "key": "Bob Zhang",
+        "value": "Боб Чжан"
+    },
+    {
+        "key": "June Chen",
+        "value": "Джун Чен"
+    },
+    {
+        "key": "Darren Lin",
+        "value": "Даррен Лин"
+    },
+    {
+        "key": "Chris Mao",
+        "value": "Крис Мао"
+    },
+    {
+        "key": "Troy Pan",
+        "value": "Трой Пэн"
+    },
+    {
+        "key": "Charles Goh",
+        "value": "Чарльз Го"
+    },
+    {
+        "key": "Joanna Lee",
+        "value": "Джоанна Ли"
+    },
+    {
+        "key": "Melanie Lin",
+        "value": "Мелани Лин"
+    },
+    {
+        "key": "Blake Li",
+        "value": "Блейк Ли"
+    },
+    {
+        "key": "Lance Lim",
+        "value": "Ланс Лим"
+    },
+    {
+        "key": "Zeke Lee",
+        "value": "Зик Ли"
+    },
+    {
+        "key": "Modeste Wu",
+        "value": "Модест Ву"
+    },
+    {
+        "key": "Fawn Yang",
+        "value": "Фаун Янг"
+    },
+    {
+        "key": "Reese Qiu",
+        "value": "Риз Кю"
+    },
+    {
+        "key": "Owen Wang",
+        "value": "Оуэн Ванг"
+    },
+    {
+        "key": "Lizzy Hsu",
+        "value": "Лиззи Хсу"
+    },
+    {
+        "key": "Cullen Chen",
+        "value": "Каллен Чен"
+    },
+    {
+        "key": "Melinda Chen",
+        "value": "Мелинда Чен"
+    },
+    {
+        "key": "Ruth Huang",
+        "value": "Рут Хуанг"
+    },
+    {
+        "key": "Reynold Zhao",
+        "value": "Рейнольд Чжао"
+    },
+    {
+        "key": "Kash Wu",
+        "value": "Каш Ву"
+    },
+    {
+        "key": "Cecily Li",
+        "value": "Сесили Ли"
+    },
+    {
+        "key": "Cate Liu",
+        "value": "Кейт Лю"
+    },
+    {
+        "key": "Pamella Wu",
+        "value": "Памелла Ву"
+    },
+    {
+        "key": "Velda Zhang",
+        "value": "Вельда Чжан"
+    },
+    {
+        "key": "Leilah Huang",
+        "value": "Лейла Хуанг"
+    },
+    {
+        "key": "Tamsyn Chien",
+        "value": "Тамсин Чиен"
+    },
+    {
+        "key": "Dominick Huang",
+        "value": "Доминик Хуанг"
+    },
+    {
+        "key": "Scarlett Lin",
+        "value": "Скарлетт Лин"
+    },
+    {
+        "key": "[News] Sandie Sun",
+        "value": "[Новости] Сэнди Сан"
+    },
+    {
+        "key": "Patricia Liu",
+        "value": "Патриция Лю"
+    },
+    {
+        "key": "Trudy Yang",
+        "value": "Труди Янг"
+    },
+    {
+        "key": "Linton Tsai",
+        "value": "Линтон Цай"
+    },
+    {
+        "key": "Kris Huang",
+        "value": "Крис Хуанг"
+    },
+    {
+        "key": "Virgil Zhang",
+        "value": "Вергилий Чжан"
+    },
+    {
+        "key": "Zayne Zhu",
+        "value": "Зейн Чжу"
+    },
+    {
+        "key": "Franklyn Lin",
+        "value": "Франклин Лин"
+    },
+    {
+        "key": "Darrel Chang",
+        "value": "Даррел Чанг"
+    },
+    {
+        "key": "Sharyl Huang",
+        "value": "Шэрил Хуанг"
+    },
+    {
+        "key": "Rozanne Huang",
+        "value": "Розанна Хуанг"
+    },
+    {
+        "key": "Curt Li",
+        "value": "Курт Ли"
+    },
+    {
+        "key": "Sid Sun",
+        "value": "Сид Сан"
+    },
+    {
+        "key": "Tobias Li",
+        "value": "Тобиас Ли"
+    },
+    {
+        "key": "Stu Lin",
+        "value": "Стю Лин"
+    },
+    {
+        "key": "John Zhang",
+        "value": "Джон Чжан"
+    },
+    {
+        "key": "工廠電視",
+        "value": "Заводское телевидение"
+    },
+    {
+        "key": "Mike Liang",
+        "value": "Майк Лян"
+    },
+    {
+        "key": "簽約機械",
+        "value": "Подписные машины"
+    },
+    {
+        "key": "Guy",
+        "value": "Парень"
+    },
+    {
+        "key": "CU-052",
+        "value": "CU-052"
+    },
+    {
+        "key": "Maynerd Tse",
+        "value": "Майнерд Тсе"
+    },
+    {
+        "key": "背後鴞隊",
+        "value": "За кулисами."
+    },
+    {
+        "key": "NPC_Base",
+        "value": "NPC_Base"
+    },
+    {
+        "key": "徐媛保鑣B",
+        "value": "Сюй Юань Бао Б"
+    },
+    {
+        "key": "CM辦公室_賴潔",
+        "value": "Офис КМ_Лай Цзе"
+    },
+    {
+        "key": "徐媛保鑣A",
+        "value": "Сюй Юань Бао Биу А"
+    }
+]
